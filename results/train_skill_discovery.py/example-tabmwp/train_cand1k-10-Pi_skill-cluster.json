@@ -1,0 +1,222 @@
+{
+  "0": [
+    {
+      "Q": "Table: [TITLE]: Glasses of water\nDay | Number of glasses\nWednesday | 7\nThursday | 6\nFriday | 2\nSaturday | 4\nSunday | 8\nMonday | 4\nTuesday | 5\nQuestion: Janelle wrote down how many glasses of water she drank during the past 7 days. What is the median of the numbers?",
+      "A": "Solution: Read the numbers from the table. 7, 6, 2, 4, 8, 4, 5 First, arrange the numbers from least to greatest: 2, 4, 4, 5, 6, 7, 8 Now find the number in the middle. 2, 4, 4, 5, 6, 7, 8 The number in the middle is 5. The median is 5. The answer is 5"
+    },
+    {
+      "Q": "Table: [TITLE]: Ages of cousins\nName | Age (years)\nLiz | 3\nXavier | 6\nBrian | 1\nCindy | 10\nWayne | 10\nSadie | 7\nMaddie | 1\nHayley | 1\nQuestion: A girl compared the ages of her cousins. What is the range of the numbers?",
+      "A": "Solution: Read the numbers from the table. 3, 6, 1, 10, 10, 7, 1, 1 First, find the greatest number. The greatest number is 10. Next, find the least number. The least number is 1. Subtract the least number from the greatest number: 10 − 1 = 9 The range is 9. The answer is 9"
+    },
+    {
+      "Q": "Table: [TITLE]: Swimming laps\nName | Laps\nKatie | 77\nSteve | 72\nTisha | 77\nJosiah | 78\nPeter | 72\nBryan | 78\nMaya | 79\nHenry | 77\nQuestion: The members of the swimming team compared how many laps they swam yesterday. What is the mode of the numbers?",
+      "A": "Solution: Read the numbers from the table. 77, 72, 77, 78, 72, 78, 79, 77 First, arrange the numbers from least to greatest: 72, 72, 77, 77, 77, 78, 78, 79 Now count how many times each number appears. 72 appears 2 times. 77 appears 3 times. 78 appears 2 times. 79 appears 1 time. The number that appears most often is 77. The mode is 77. The answer is 77"
+    },
+    {
+      "Q": "Table: [TITLE]: Photographs taken\nDay | Number of photographs\nWednesday | 47\nThursday | 56\nFriday | 44\nSaturday | 55\nSunday | 42\nMonday | 51\nTuesday | 62\nQuestion: Sarah looked at the dates of the digital photos on her computer to find out how many she had taken in the past 7 days. What is the mean of the numbers?",
+      "A": "Solution: Read the numbers from the table. 47, 56, 44, 55, 42, 51, 62 First, count how many numbers are in the group. There are 7 numbers. Now add all the numbers together: 47 + 56 + 44 + 55 + 42 + 51 + 62 = 357 Now divide the sum by the number of numbers: 357 ÷ 7 = 51 The mean is 51. The answer is 51"
+    },
+    {
+      "Q": "Table: [TITLE]: Ages of cousins\nName | Age (years)\nErik | 19\nColette | 14\nWarren | 14\nDave | 20\nReid | 19\nAlvin | 9\nSam | 20\nJanelle | 14\nQuestion: A girl compared the ages of her cousins. What is the range of the numbers?",
+      "A": "Solution: Read the numbers from the table. 19, 14, 14, 20, 19, 9, 20, 14 First, find the greatest number. The greatest number is 20. Next, find the least number. The least number is 9. Subtract the least number from the greatest number: 20 − 9 = 11 The range is 11. The answer is 11"
+    }
+  ],
+  "1": [
+    {
+      "Q": "Table: [TITLE]: None\nNumber of bags | Number of wooden beads\n1 | 5\n2 | 10\n3 | ?\nQuestion: Each bag has 5 wooden beads. How many wooden beads are in 3 bags?",
+      "A": "Solution: Count by fives. Use the chart: there are 15 wooden beads in 3 bags. The answer is 15"
+    },
+    {
+      "Q": "Table: [TITLE]: None\nNumber of trees | Number of sparrows\n1 | 2\n2 | 4\n3 | 6\n4 | ?\nQuestion: Each tree has 2 sparrows. How many sparrows are in 4 trees?",
+      "A": "Solution: Count by twos. Use the chart: there are 8 sparrows in 4 trees. The answer is 8"
+    },
+    {
+      "Q": "Table: [TITLE]: None\nNumber of bushes | Number of roses\n1 | 5\n2 | 10\n3 | 15\n4 | 20\n5 | 25\n6 | ?\nQuestion: Each bush has 5 roses. How many roses are on 6 bushes?",
+      "A": "Solution: Count by fives. Use the chart: there are 30 roses on 6 bushes. The answer is 30"
+    },
+    {
+      "Q": "Table: [TITLE]: None\nNumber of pens | Number of cows\n1 | 10\n2 | 20\n3 | 30\n4 | 40\n5 | ?\nQuestion: Each pen has 10 cows. How many cows are in 5 pens?",
+      "A": "Solution: Count by tens. Use the chart: there are 50 cows in 5 pens. The answer is 50"
+    },
+    {
+      "Q": "Table: [TITLE]: None\nNumber of bouquets | Number of daisies\n1 | 10\n2 | 20\n3 | 30\n4 | 40\n5 | ?\nQuestion: Each bouquet has 10 daisies. How many daisies are in 5 bouquets?",
+      "A": "Solution: Count by tens. Use the chart: there are 50 daisies in 5 bouquets. The answer is 50"
+    }
+  ],
+  "2": [
+    {
+      "Q": "Table: [TITLE]: Average waiting time at a doctor's office\nMonth | Waiting time (minutes)\nJuly | 28\nAugust | 28\nSeptember | 30\nOctober | 25\nNovember | 29\nQuestion: Toby, a doctor's office receptionist, tracked the average waiting time at the office each month. According to the table, what was the rate of change between October and November? (Unit: minutes per month)",
+      "A": "Solution: Plug the numbers into the formula for rate of change and simplify. Rate of change = \\frac{change in value}{change in time} = \\frac{29 minutes - 25 minutes}{1 month} = \\frac{4 minutes}{1 month} = 4 minutes per month The rate of change between October and November was 4 minutes per month. The answer is 4"
+    },
+    {
+      "Q": "Table: [TITLE]: Emails Tanvi received\nDay | Emails\nTuesday | 4\nWednesday | 10\nThursday | 8\nFriday | 4\nSaturday | 8\nQuestion: Tanvi kept a tally of the number of emails she received each day for a week. According to the table, what was the rate of change between Wednesday and Thursday? (Unit: emails per day)",
+      "A": "Solution: Plug the numbers into the formula for rate of change and simplify. Rate of change = \\frac{change in value}{change in time} = \\frac{8 emails - 10 emails}{1 day} = \\frac{-2 emails}{1 day} = -2 emails per day The rate of change between Wednesday and Thursday was - 2 emails per day. The answer is -2"
+    },
+    {
+      "Q": "Table: [TITLE]: Amount Brett spent on lunch\nDay | Amount spent\nTuesday | $3\nWednesday | $4\nThursday | $5\nFriday | $10\nSaturday | $5\nQuestion: In trying to calculate how much money could be saved by packing lunch, Brett recorded the amount he spent on lunch each day. According to the table, what was the rate of change between Tuesday and Wednesday? (Unit: $, per day)",
+      "A": "Solution: Plug the numbers into the formula for rate of change and simplify. Rate of change = \\frac{change in value}{change in time} = \\frac{$4 - $3}{1 day} = \\frac{$1}{1 day} = $1 perday The rate of change between Tuesday and Wednesday was $1 perday. The answer is 1"
+    },
+    {
+      "Q": "Table: [TITLE]: Loaves of leftover bread\nDay | Leftover loaves\nMonday | 16\nTuesday | 19\nWednesday | 14\nThursday | 11\nFriday | 2\nQuestion: A vendor who sold bread at farmers' markets counted the number of leftover loaves at the end of each day. According to the table, what was the rate of change between Wednesday and Thursday? (Unit: loaves per day)",
+      "A": "Solution: Plug the numbers into the formula for rate of change and simplify. Rate of change = \\frac{change in value}{change in time} = \\frac{11 loaves - 14 loaves}{1 day} = \\frac{-3 loaves}{1 day} = -3 loaves per day The rate of change between Wednesday and Thursday was - 3 loaves per day. The answer is -3"
+    },
+    {
+      "Q": "Table: [TITLE]: Emails Tisha received\nDay | Emails\nMonday | 9\nTuesday | 10\nWednesday | 3\nThursday | 6\nFriday | 7\nQuestion: Tisha kept a tally of the number of emails she received each day for a week. According to the table, what was the rate of change between Thursday and Friday? (Unit: emails per day)",
+      "A": "Solution: Plug the numbers into the formula for rate of change and simplify. Rate of change = \\frac{change in value}{change in time} = \\frac{7 emails - 6 emails}{1 day} = \\frac{1 email}{1 day} = 1 email per day The rate of change between Thursday and Friday was 1 email per day. The answer is 1"
+    }
+  ],
+  "3": [
+    {
+      "Q": "Table: [TITLE]: Offices per floor\nStem | Leaf \n1 | 3, 8\n2 | 8\n3 | 0, 3, 4, 7, 7, 7\n4 | \n5 | \n6 | 5\nQuestion: A real estate agent counted the number of offices per floor in the building she is selling. How many floors have at least 50 offices? (Unit: floors)",
+      "A": "Solution: Count all the leaves in the rows with stems 5 and 6. You counted 1 leaf, which is blue in the stem-and-leaf plot above. 1 floor has at least 50 offices. The answer is 1"
+    },
+    {
+      "Q": "Table: [TITLE]: Pairs of shoes per store\nStem | Leaf \n1 | 9\n2 | \n3 | 0, 2\n4 | 7\n5 | \n6 | \n7 | \n8 | 4\n9 | 0\nQuestion: Julie counted the number of pairs of shoes for sale at each of the shoe stores in the mall. How many stores have exactly 47 pairs of shoes? (Unit: stores)",
+      "A": "Solution: For the number 47, the stem is 4, and the leaf is 7. Find the row where the stem is 4. In that row, count all the leaves equal to 7. You counted 1 leaf, which is blue in the stem-and-leaf plot above. 1 store has exactly 47 pairs of shoes. The answer is 1"
+    },
+    {
+      "Q": "Table: [TITLE]: Broken lights per string\nStem | Leaf \n1 | 6\n2 | 4\n3 | \n4 | \n5 | \n6 | 7, 7\n7 | 0\n8 | 5\nQuestion: While hanging Christmas lights for neighbors, Jack counted the number of broken lights on each string. How many strings had exactly 67 broken lights? (Unit: strings)",
+      "A": "Solution: For the number 67, the stem is 6, and the leaf is 7. Find the row where the stem is 6. In that row, count all the leaves equal to 7. You counted 2 leaves, which are blue in the stem-and-leaf plot above. 2 strings had exactly 67 broken lights. The answer is 2"
+    },
+    {
+      "Q": "Table: [TITLE]: Roses per bush\nStem | Leaf \n2 | 4, 5, 9\n3 | 7\n4 | 4\n5 | 3, 7\n6 | 0\nQuestion: The owner of a plant nursery wrote down the number of roses on each bush. How many bushes have at least 51 roses but fewer than 67 roses? (Unit: bushes)",
+      "A": "Solution: Find the row with stem 5. Count all the leaves greater than or equal to 1. In the row with stem 6, count all the leaves less than 7. You counted 3 leaves, which are blue in the stem-and-leaf plots above. 3 bushes have at least 51 roses but fewer than 67 roses. The answer is 3"
+    },
+    {
+      "Q": "Table: [TITLE]: Pages per magazine\nStem | Leaf \n6 | 4\n7 | \n8 | 2, 3, 7, 9\n9 | 0\nQuestion: Amelia, a journalism student, counted the number of pages in several major magazines. How many magazines had less than 90 pages? (Unit: magazines)",
+      "A": "Solution: Count all the leaves in the rows with stems 6, 7, and 8. You counted 5 leaves, which are blue in the stem-and-leaf plot above. 5 magazines had less than 90 pages. The answer is 5"
+    }
+  ],
+  "4": [
+    {
+      "Q": "Table: [TITLE]: None\nwhite polo shirt | $6.00\nstriped shirt | $8.00\norange T-shirt | $6.00\nlong-sleeved shirt | $5.00\npair of white socks | $4.00\nQuestion: How much money does Roger need to buy a white polo shirt and an orange T-shirt? (Unit: $)",
+      "A": "Solution: Add the price of a white polo shirt and the price of an orange T-shirt: $6.00 + $6.00 = $12.00 Roger needs $12.00. The answer is 12"
+    },
+    {
+      "Q": "Table: [TITLE]: None\nsoftball glove | $14.34\nbowling ball | $10.96\nswimsuit | $22.05\nsoccer ball | $11.26\nfootball | $12.46\nbasketball | $18.02\nQuestion: How much money does Justine need to buy a bowling ball and 3 footballs? (Unit: $)",
+      "A": "Solution: Find the cost of 3 footballs. $12.46 × 3 = $37.38 Now find the total cost. $10.96 + $37.38 = $48.34 Justine needs $48.34. The answer is 48.34"
+    },
+    {
+      "Q": "Table: [TITLE]: None\nantique fir wood bed | $937\nantique elm coffee table | $904\nantique marbletop vanity | $821\nantique hand-painted trunk | $899\nQuestion: How much money does Sophie need to buy an antique hand-painted trunk and an antique elm coffee table? (Unit: $)",
+      "A": "Solution: Add the price of an antique hand-painted trunk and the price of an antique elm coffee table: $899 + $904 = $1,803 Sophie needs $1,803. The answer is 1,803"
+    },
+    {
+      "Q": "Table: [TITLE]: None\nglue stick | $0.05\nmechanical pencil | $0.08\nred ballpoint pen | $0.03\nbright yellow highlighter | $0.02\npurple colored pencil | $0.02\nQuestion: How much money does Irma need to buy a glue stick, a red ballpoint pen, and a mechanical pencil? (Unit: $)",
+      "A": "Solution: Find the total cost of a glue stick, a red ballpoint pen, and a mechanical pencil. $0.05 + $0.03 + $0.08 = $0.16 Irma needs $0.16. The answer is 0.16"
+    },
+    {
+      "Q": "Table: [TITLE]: None\nforklift | $9,243.00\nhydrofoil | $9,792.00\nrace car | $9,042.00\ndump truck | $8,417.00\nbulldozer | $7,761.00\ncrane | $9,107.00\nQuestion: How much money does Lindsey need to buy a dump truck and a forklift? (Unit: $)",
+      "A": "Solution: Add the price of a dump truck and the price of a forklift: $8,417.00 + $9,243.00 = $17,660.00 Lindsey needs $17,660.00. The answer is 17,660"
+    }
+  ],
+  "5": [
+    {
+      "Q": "Table: [TITLE]: None\n | Blue sticker | Green sticker\nFront door of the house | 2 | 4\nBack door of the house | 3 | 3\nQuestion: Lester keeps all his spare keys in a box under his bed. Recently, Lester decided the box was becoming unmanageable, as none of the keys were labeled. He set about labeling them with colored stickers that indicated what each key opened. What is the probability that a randomly selected key opens the front door of the house and is labeled with a green sticker? Simplify any fractions.",
+      "A": "Solution: Let A be the event \"the key opens the front door of the house\" and B be the event \"the key is labeled with a green sticker\". To find the probability that a key opens the front door of the house and is labeled with a green sticker, first identify the sample space and the event. The outcomes in the sample space are the different keys. Each key is equally likely to be selected, so this is a uniform probability model. The event is A and B, \"the key opens the front door of the house and is labeled with a green sticker\". Since this is a uniform probability model, count the number of outcomes in the event A and B and count the total number of outcomes. Then, divide them to compute the probability. Find the number of outcomes in the event A and B. A and B is the event \"the key opens the front door of the house and is labeled with a green sticker\", so look at the table to see how many keys open the front door of the house and are labeled with a green sticker. The number of keys that open the front door of the house and are labeled with a green sticker is 4. Find the total number of outcomes. Add all the numbers in the table to find the total number of keys. 2 + 3 + 4 + 3 = 12 Find P(A and B). Since all outcomes are equally likely, the probability of event A and B is the number of outcomes in event A and B divided by the total number of outcomes. P(A and B) = \\frac{# of outcomes in A and B}{total # of outcomes} = \\frac{4}{12} = \\frac{1}{3} The probability that a key opens the front door of the house and is labeled with a green sticker is \\frac{1}{3}. The answer is 1/3"
+    },
+    {
+      "Q": "Table: [TITLE]: None\n | Rectangle | Circle\nSpinach | 5 | 4\nCheese | 5 | 5\nQuestion: Chef Johnston baked her famous casseroles for a company holiday party. The casseroles had different shapes and different delicious fillings. What is the probability that a randomly selected casserole is filled with spinach and is shaped like a circle? Simplify any fractions.",
+      "A": "Solution: Let A be the event \"the casserole is filled with spinach\" and B be the event \"the casserole is shaped like a circle\". To find the probability that a casserole is filled with spinach and is shaped like a circle, first identify the sample space and the event. The outcomes in the sample space are the different casseroles. Each casserole is equally likely to be selected, so this is a uniform probability model. The event is A and B, \"the casserole is filled with spinach and is shaped like a circle\". Since this is a uniform probability model, count the number of outcomes in the event A and B and count the total number of outcomes. Then, divide them to compute the probability. Find the number of outcomes in the event A and B. A and B is the event \"the casserole is filled with spinach and is shaped like a circle\", so look at the table to see how many casseroles are filled with spinach and are shaped like a circle. The number of casseroles that are filled with spinach and are shaped like a circle is 4. Find the total number of outcomes. Add all the numbers in the table to find the total number of casseroles. 5 + 5 + 4 + 5 = 19 Find P(A and B). Since all outcomes are equally likely, the probability of event A and B is the number of outcomes in event A and B divided by the total number of outcomes. P(A and B) = \\frac{# of outcomes in A and B}{total # of outcomes} = \\frac{4}{19} The probability that a casserole is filled with spinach and is shaped like a circle is \\frac{4}{19}. The answer is 4/19"
+    },
+    {
+      "Q": "Table: [TITLE]: None\n | Spinach | Cheese\nRectangle | 5 | 6\nCircle | 1 | 4\nQuestion: Chef Shaw baked her famous casseroles for a company holiday party. The casseroles had different shapes and different delicious fillings. What is the probability that a randomly selected casserole is shaped like a rectangle and is filled with spinach? Simplify any fractions.",
+      "A": "Solution: Let A be the event \"the casserole is shaped like a rectangle\" and B be the event \"the casserole is filled with spinach\". To find the probability that a casserole is shaped like a rectangle and is filled with spinach, first identify the sample space and the event. The outcomes in the sample space are the different casseroles. Each casserole is equally likely to be selected, so this is a uniform probability model. The event is A and B, \"the casserole is shaped like a rectangle and is filled with spinach\". Since this is a uniform probability model, count the number of outcomes in the event A and B and count the total number of outcomes. Then, divide them to compute the probability. Find the number of outcomes in the event A and B. A and B is the event \"the casserole is shaped like a rectangle and is filled with spinach\", so look at the table to see how many casseroles are shaped like a rectangle and are filled with spinach. The number of casseroles that are shaped like a rectangle and are filled with spinach is 5. Find the total number of outcomes. Add all the numbers in the table to find the total number of casseroles. 5 + 1 + 6 + 4 = 16 Find P(A and B). Since all outcomes are equally likely, the probability of event A and B is the number of outcomes in event A and B divided by the total number of outcomes. P(A and B) = \\frac{# of outcomes in A and B}{total # of outcomes} = \\frac{5}{16} The probability that a casserole is shaped like a rectangle and is filled with spinach is \\frac{5}{16}. The answer is 5/16"
+    },
+    {
+      "Q": "Table: [TITLE]: None\n | Strawberry jelly | Grape jelly\nCreamy peanut butter | 5 | 5\nChunky peanut butter | 6 | 4\nQuestion: Anita is a sandwich maker at a local deli. Last week, she tracked the number of peanut butter and jelly sandwiches ordered, noting the flavor of jelly and type of peanut butter requested. What is the probability that a randomly selected sandwich was made with chunky peanut butter and strawberry jelly? Simplify any fractions.",
+      "A": "Solution: Let A be the event \"the sandwich was made with chunky peanut butter\" and B be the event \"the sandwich was made with strawberry jelly\". To find the probability that a sandwich was made with chunky peanut butter and strawberry jelly, first identify the sample space and the event. The outcomes in the sample space are the different sandwiches. Each sandwich is equally likely to be selected, so this is a uniform probability model. The event is A and B, \"the sandwich was made with chunky peanut butter and strawberry jelly\". Since this is a uniform probability model, count the number of outcomes in the event A and B and count the total number of outcomes. Then, divide them to compute the probability. Find the number of outcomes in the event A and B. A and B is the event \"the sandwich was made with chunky peanut butter and strawberry jelly\", so look at the table to see how many sandwiches were made with chunky peanut butter and strawberry jelly. The number of sandwiches that were made with chunky peanut butter and strawberry jelly is 6. Find the total number of outcomes. Add all the numbers in the table to find the total number of sandwiches. 5 + 6 + 5 + 4 = 20 Find P(A and B). Since all outcomes are equally likely, the probability of event A and B is the number of outcomes in event A and B divided by the total number of outcomes. P(A and B) = \\frac{# of outcomes in A and B}{total # of outcomes} = \\frac{6}{20} = \\frac{3}{10} The probability that a sandwich was made with chunky peanut butter and strawberry jelly is \\frac{3}{10}. The answer is 3/10"
+    },
+    {
+      "Q": "Table: [TITLE]: None\n | Polarized lenses | Regular lenses\nCat eye frames | 5 | 5\nBrowline frames | 2 | 8\nQuestion: After growing tired of squinting while driving, Martha went shopping for a pair of sunglasses. She tried on glasses with different frames and lenses. What is the probability that a randomly selected pair of sunglasses has cat eye frames and polarized lenses? Simplify any fractions.",
+      "A": "Solution: Let A be the event \"the pair of sunglasses has cat eye frames\" and B be the event \"the pair of sunglasses has polarized lenses\". To find the probability that a pair of sunglasses has cat eye frames and polarized lenses, first identify the sample space and the event. The outcomes in the sample space are the different pairs of sunglasses. Each pair of sunglasses is equally likely to be selected, so this is a uniform probability model. The event is A and B, \"the pair of sunglasses has cat eye frames and polarized lenses\". Since this is a uniform probability model, count the number of outcomes in the event A and B and count the total number of outcomes. Then, divide them to compute the probability. Find the number of outcomes in the event A and B. A and B is the event \"the pair of sunglasses has cat eye frames and polarized lenses\", so look at the table to see how many pairs of sunglasses have cat eye frames and polarized lenses. The number of pairs of sunglasses that have cat eye frames and polarized lenses is 5. Find the total number of outcomes. Add all the numbers in the table to find the total number of pairs of sunglasses. 5 + 2 + 5 + 8 = 20 Find P(A and B). Since all outcomes are equally likely, the probability of event A and B is the number of outcomes in event A and B divided by the total number of outcomes. P(A and B) = \\frac{# of outcomes in A and B}{total # of outcomes} = \\frac{5}{20} = \\frac{1}{4} The probability that a pair of sunglasses has cat eye frames and polarized lenses is \\frac{1}{4}. The answer is 1/4"
+    }
+  ],
+  "6": [
+    {
+      "Q": "Table: [TITLE]: Running miles\nName | Miles\nTerrell | 19\nFelix | 17\nQuincy | 18\nLila | 13\nQuestion: The members of the track team compared how many miles they ran last week. Who ran the fewest miles?\nOptions: (A) Terrell (B) Felix (C) Quincy (D) Lila",
+      "A": "Solution: Find the least number in the table. Remember to compare the numbers starting with the highest place value. The least number is 13. Now find the corresponding name. Lila corresponds to 13. The answer is Lila"
+    },
+    {
+      "Q": "Table: [TITLE]: Boxes of cereal purchased\nCereal | Number of boxes purchased\nVanilla Honey Clusters | 482\nOaty Yums | 478\nAlmond Crisp Crunch | 474\nCaramel Deelish | 448\nQuestion: A business analyst compared purchases of different types of cereal. Which cereal had the fewest boxes purchased?\nOptions: (A) Vanilla Honey Clusters (B) Oaty Yums (C) Almond Crisp Crunch (D) Caramel Deelish",
+      "A": "Solution: Find the least number in the table. Remember to compare the numbers starting with the highest place value. The least number is 448. Now find the corresponding cereal. Caramel Deelish corresponds to 448. The answer is Caramel Deelish"
+    },
+    {
+      "Q": "Table: [TITLE]: Candy production\nCompany | Number of pieces of candy\nChocolate and More | 987\nSweet Things | 978\nTasty Treats | 989\nGoodman Candies | 997\nQuestion: Some candy companies compared how many pieces of candy they have produced. Which company has produced the least candy?\nOptions: (A) Chocolate and More (B) Sweet Things (C) Tasty Treats (D) Goodman Candies",
+      "A": "Solution: Find the least number in the table. Remember to compare the numbers starting with the highest place value. The least number is 978. Now find the corresponding company. Sweet Things corresponds to 978. The answer is Sweet Things"
+    },
+    {
+      "Q": "Table: [TITLE]: Bean bag toss\nPerson | Hits | Misses\nUncle William | 3 | 20\nCousin Chris | 9 | 12\nCousin Andy | 2 | 19\nUncle Rob | 9 | 14\nUncle Jake | 12 | 18\nQuestion: At the summer carnival, each member of the Shaffer family played a round of bean bag toss. Which family member had the most misses?\nOptions: (A) Cousin Chris (B) Uncle William (C) Uncle Jake (D) Uncle Rob",
+      "A": "Solution: Look at the numbers in the Misses column. Find the greatest number in this column. The greatest number is 20, which is in the Uncle William row. Uncle William had the most misses. The answer is Uncle William"
+    },
+    {
+      "Q": "Table: [TITLE]: Donations\nPerson | Cancer research | Job training\nSanjay | $8 | $5\nEd | $6 | $13\nAiden | $15 | $6\nMateo | $4 | $7\nQuestion: A philanthropic organization compared the amounts of money that its members donated to certain causes. Who donated the least money to job training?\nOptions: (A) Aiden (B) Sanjay (C) Mateo (D) Ed",
+      "A": "Solution: Look at the numbers in the Job training column. Find the least number in this column. The least number is $5.00, which is in the Sanjay row. Sanjay donated the least to job training. The answer is Sanjay"
+    }
+  ],
+  "7": [
+    {
+      "Q": "Table: [TITLE]: Stuffed animals\nNumber of stuffed animals | Frequency\n0 | 4\n1 | 3\n2 | 17\n3 | 15\n4 | 10\nQuestion: As part of a stuffed animal drive for the local children's hospital, the students at Ellison Elementary School record how many stuffed animals they have collected. How many students have at least 1 stuffed animal?",
+      "A": "Solution: Find the rows for 1, 2, 3, and 4 stuffed animals. Add the frequencies for these rows. Add: 3 + 17 + 15 + 10 = 45 45 students have at least 1 stuffed animal. The answer is 45"
+    },
+    {
+      "Q": "Table: [TITLE]: Eating fast food last month\nTimes eaten | Frequency\n0 | 1\n1 | 15\n2 | 7\n3 | 18\n4 | 2\n5 | 19\nQuestion: During health class, the students reported the number of times they ate fast food last month. How many students are there in all?",
+      "A": "Solution: Add the frequencies for each row. Add: 1 + 15 + 7 + 18 + 2 + 19 = 62 There are 62 students in all. The answer is 62"
+    },
+    {
+      "Q": "Table: [TITLE]: Favorite vegetables\nVegetable | Upper elementary students | Lower elementary students\nBroccoli | 2 | 12\nOnions | 10 | 9\nCarrots | 16 | 13\nTurnips | 16 | 2\nCelery | 5 | 20\nQuestion: Westford Elementary School polled its students about their favorite vegetables in order to decide which ones to plant in the new school garden. How many lower elementary students voted for onions? (Unit: lower elementary students)",
+      "A": "Solution: First, find the row for onions. Then find the number in the Lower elementary students column. This number is 9. 9 lower elementary students voted for onions. The answer is 9"
+    },
+    {
+      "Q": "Table: [TITLE]: Scores in a card game\nScore | Frequency\n4 | 2\n5 | 4\n6 | 3\n7 | 10\n8 | 17\n9 | 19\n10 | 6\nQuestion: Carla figured out the scores at the end of a card game. How many people scored less than 5?",
+      "A": "Solution: Find the row for 4 and read the frequency. The frequency is 2. 2 people scored less than 5. The answer is 2"
+    },
+    {
+      "Q": "Table: [TITLE]: Going to the library last month\nNumber of trips | Frequency\n1 | 13\n2 | 14\n3 | 0\n4 | 19\n5 | 17\n6 | 18\nQuestion: In considering whether to open a new branch, the city council examined the number of times some typical residents went to the library last month. How many people are there in all?",
+      "A": "Solution: Add the frequencies for each row. Add: 13 + 14 + 0 + 19 + 17 + 18 = 81 There are 81 people in all. The answer is 81"
+    }
+  ],
+  "8": [
+    {
+      "Q": "Table: [TITLE]: Tour bus schedule\nLocation | Arrive | Depart\nthe riverfront | 9:55 A.M. | 10:20 A.M.\nthe zoo | 10:35 A.M. | 11:30 A.M.\nart museum | 12:05 P.M. | 12:30 P.M.\nscience museum | 1:00 P.M. | 1:45 P.M.\nskyscraper | 1:50 P.M. | 2:20 P.M.\ngovernor's mansion | 2:50 P.M. | 3:45 P.M.\nold building | 4:00 P.M. | 4:45 P.M.\nfamous bridge | 5:15 P.M. | 5:40 P.M.\nthe aquarium | 6:20 P.M. | 7:00 P.M.\nlandmark sculpture | 7:45 P.M. | 8:20 P.M.\nQuestion: Look at the following schedule. Which stop does the bus depart from at 11.30 A.M.?\nOptions: (A) zoo (B) riverfront (C) old building (D) science museum",
+      "A": "Solution: Find 11:30 A. M. on the schedule. The bus departs from the zoo at 11:30 A. M. The answer is zoo"
+    },
+    {
+      "Q": "Table: [TITLE]: Track meet schedule\nEvent | Begin | End\nhurdles | 10:00 A.M. | 10:25 A.M.\nhigh jump | 10:30 A.M. | 11:20 A.M.\ndiscus throw | 11:25 A.M. | 12:00 P.M.\nwomen's relay | 12:15 P.M. | 1:15 P.M.\ntriple jump | 1:20 P.M. | 2:20 P.M.\njavelin throw | 2:35 P.M. | 3:10 P.M.\nQuestion: Look at the following schedule. When does the discus throw end?\nOptions: (A) 3:10 P.M. (B) 11:25 A.M. (C) 12:15 P.M. (D) 12:00 P.M.",
+      "A": "Solution: Find the discus throw on the schedule. Find the end time for the discus throw. discus throw: 12:00 P. M. The answer is 12:00 P.M."
+    },
+    {
+      "Q": "Table: [TITLE]: Summer Olympics schedule\nEvent | Begin | End\nwrestling | 10:15 A.M. | 2:15 P.M.\ntrack and field | 12:45 P.M. | 3:00 P.M.\nbadminton | 1:20 P.M. | 3:55 P.M.\nvolleyball | 2:55 P.M. | 5:15 P.M.\narchery | 3:45 P.M. | 6:00 P.M.\nQuestion: Look at the following schedule. When does the badminton event begin?\nOptions: (A) 3:55 P.M. (B) 2:55 P.M. (C) 3:00 P.M. (D) 1:20 P.M.",
+      "A": "Solution: Find the badminton event on the schedule. Find the beginning time for the badminton event. badminton: 1:20 P. M. The answer is 1:20 P.M."
+    },
+    {
+      "Q": "Table: [TITLE]: Subway train schedule\nLocation | Time\nWilson Street | 9:40 A.M.\nFranklin Street | 10:15 A.M.\nWashington Road | 10:30 A.M.\nGreen Street | 11:05 A.M.\nWest Boulevard | 11:30 A.M.\nPoplar Road | 11:45 A.M.\nSpruce Road | 12:05 P.M.\nHill Boulevard | 12:40 P.M.\nCollege Avenue | 1:15 P.M.\nQuestion: Look at the following schedule. When does the train depart from Spruce Road?\nOptions: (A) 11:45 A.M. (B) 11:30 A.M. (C) 12:05 P.M. (D) 10:30 A.M.",
+      "A": "Solution: Find Spruce Road on the schedule. Find the departure time for Spruce Road. Spruce Road: 12:05 P. M. The answer is 12:05 P.M."
+    },
+    {
+      "Q": "Table: [TITLE]: High school schedule\nEvent | Begin | End\norchestra rehearsal | 1:20 P.M. | 2:55 P.M.\ntheater auditions | 2:45 P.M. | 3:30 P.M.\nwrestling practice | 3:05 P.M. | 4:25 P.M.\nmen's basketball game | 4:00 P.M. | 5:25 P.M.\nFrench club meeting | 5:00 P.M. | 6:15 P.M.\nchoir rehearsal | 6:00 P.M. | 7:20 P.M.\nswim team practice | 6:55 P.M. | 7:50 P.M.\nQuestion: Look at the following schedule. Which event begins at 6.00 P.M.?\nOptions: (A) theater auditions (B) choir rehearsal (C) orchestra rehearsal (D) swim team practice",
+      "A": "Solution: Find 6:00 P. M. on the schedule. The choir rehearsal begins at 6:00 P. M. The answer is choir rehearsal"
+    }
+  ],
+  "9": [
+    {
+      "Q": "Table: [TITLE]: None\nsemisweet chocolate | $3/pound\ndark chocolate | $5/pound\nbittersweet chocolate | $3/pound\nwhite chocolate | $4/pound\nQuestion: Hayley bought 2.2 pounds of bittersweet chocolate. How much did she spend? (Unit: $)",
+      "A": "Solution: Find the cost of the bittersweet chocolate. Multiply the price per pound by the number of pounds. $3 × 2.2 = $6.60 She spent $6.60. The answer is 6.60"
+    },
+    {
+      "Q": "Table: [TITLE]: None\nwalnuts | $4.97 per kilogram\npecans | $4.16 per kilogram\nalmonds | $3.44 per kilogram\ncashews | $3.08 per kilogram\npeanuts | $1.22 per kilogram\nQuestion: Judy buys 5 kilograms of cashews and 2 kilograms of pecans. How much does she spend? (Unit: $)",
+      "A": "Solution: Find the cost of the cashews. Multiply: $3.08 × 5 = $15.40 Find the cost of the pecans. Multiply: $4.16 × 2 = $8.32 Now find the total cost by adding: $15.40 + $8.32 = $23.72 She spends $23.72. The answer is 23.72"
+    },
+    {
+      "Q": "Table: [TITLE]: None\nroast chicken | $3/kilogram\nbreaded chicken | $3/kilogram\nbaked chicken | $3/kilogram\nsauteed chicken | $4/kilogram\nQuestion: Katie bought 3 kilograms of sauteed chicken, 1 kilogram of breaded chicken, and 2 kilograms of roast chicken. How much did she spend? (Unit: $)",
+      "A": "Solution: Find the cost of the sauteed chicken. Multiply: $4 × 3 = $12 Find the cost of the breaded chicken. Multiply: $3 × 1 = $3 Find the cost of the roast chicken. Multiply: $3 × 2 = $6 Now find the total cost by adding: $12 + $3 + $6 = $21 She spent $21. The answer is 21"
+    },
+    {
+      "Q": "Table: [TITLE]: None\nChinese lettuce | $2/pound\nromaine lettuce | $3/pound\nbutterhead lettuce | $3/pound\nkale | $1/pound\nSwiss chard | $2/pound\nsummer crisp lettuce | $5/pound\nQuestion: Kyle went to the store. He bought 3 pounds of butterhead lettuce. How much did he spend? (Unit: $)",
+      "A": "Solution: Find the cost of the butterhead lettuce. Multiply the price per pound by the number of pounds. $3 × 3 = $9 He spent $9. The answer is 9"
+    },
+    {
+      "Q": "Table: [TITLE]: None\nmacaroni salad | $6 per lb\ngreen salad | $5 per lb\nfruit salad | $4 per lb\ntuna salad | $5 per lb\nQuestion: Trent went to the store and bought 0.4 pounds of green salad. How much did he spend? (Unit: $)",
+      "A": "Solution: Find the cost of the green salad. Multiply the price per pound by the number of pounds. $5 × 0.4 = $2 He spent $2. The answer is 2"
+    }
+  ]
+}

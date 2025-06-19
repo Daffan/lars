@@ -1,0 +1,222 @@
+{
+  "0": [
+    {
+      "Q": "Table: [TITLE]: Hammers sold\nDay | Number of hammers\nTuesday | 8\nWednesday | 6\nThursday | 9\nFriday | 9\nSaturday | 10\nSunday | 2\nMonday | 9\nQuestion: A hardware store monitored how many hammers it sold in the past 7 days. What is the median of the numbers?",
+      "A": "Solution: Read the numbers from the table. 8, 6, 9, 9, 10, 2, 9 First, arrange the numbers from least to greatest: 2, 6, 8, 9, 9, 9, 10 Now find the number in the middle. 2, 6, 8, 9, 9, 9, 10 The number in the middle is 9. The median is 9. The answer is 9"
+    },
+    {
+      "Q": "Table: [TITLE]: Laps ran\nDay | Number of laps\nSunday | 49\nMonday | 41\nTuesday | 47\nWednesday | 40\nQuestion: Layla tracked how many laps she ran in the past 4 days. On which day did Layla run the fewest laps?\nOptions: (A) Sunday (B) Monday (C) Tuesday (D) Wednesday",
+      "A": "Solution: Find the least number in the table. Remember to compare the numbers starting with the highest place value. The least number is 40. Now find the corresponding day. Wednesday corresponds to 40. The answer is Wednesday"
+    },
+    {
+      "Q": "Table: [TITLE]: Tickets sold\nDay | Number of tickets\nMonday | 369\nTuesday | 338\nWednesday | 368\nThursday | 386\nQuestion: Barry tracked the attendance at the school play. On which day did the fewest people attend the play?\nOptions: (A) Monday (B) Tuesday (C) Wednesday (D) Thursday",
+      "A": "Solution: Find the least number in the table. Remember to compare the numbers starting with the highest place value. The least number is 338. Now find the corresponding day. Tuesday corresponds to 338. The answer is Tuesday"
+    },
+    {
+      "Q": "Table: [TITLE]: Charity donations\nMonth | Number of donations\nApril | 626\nMay | 623\nJune | 632\nJuly | 663\nQuestion: A charity recorded how many donations it received each month. In which month did the charity receive the most donations?\nOptions: (A) April (B) May (C) June (D) July",
+      "A": "Solution: Find the greatest number in the table. Remember to compare the numbers starting with the highest place value. The greatest number is 663. Now find the corresponding month. July corresponds to 663. The answer is July"
+    },
+    {
+      "Q": "Table: [TITLE]: Apples picked\nDay | Number of apples\nTuesday | 78\nWednesday | 79\nThursday | 70\nFriday | 76\nQuestion: The owner of an orchard kept records about how many apples were picked in the past 4 days. On which day were the most apples picked?\nOptions: (A) Tuesday (B) Wednesday (C) Thursday (D) Friday",
+      "A": "Solution: Find the greatest number in the table. Remember to compare the numbers starting with the highest place value. The greatest number is 79. Now find the corresponding day. Wednesday corresponds to 79. The answer is Wednesday"
+    }
+  ],
+  "1": [
+    {
+      "Q": "Table: [TITLE]: None\nNumber of piles | Number of plates\n1 | 5\n2 | 10\n3 | ?\nQuestion: Each pile has 5 plates. How many plates are in 3 piles? (Unit: plates)",
+      "A": "Solution: Count by fives. Use the chart: there are 15 plates in 3 piles. The answer is 15"
+    },
+    {
+      "Q": "Table: [TITLE]: None\nNumber of bushes | Number of roses\n1 | 5\n2 | 10\n3 | 15\n4 | 20\n5 | 25\n6 | ?\nQuestion: Each bush has 5 roses. How many roses are on 6 bushes?",
+      "A": "Solution: Count by fives. Use the chart: there are 30 roses on 6 bushes. The answer is 30"
+    },
+    {
+      "Q": "Table: [TITLE]: None\nNumber of fields | Number of pigs\n1 | 5\n2 | 10\n3 | 15\n4 | ?\nQuestion: Each field has 5 pigs. How many pigs are in 4 fields?",
+      "A": "Solution: Count by fives. Use the chart: there are 20 pigs in 4 fields. The answer is 20"
+    },
+    {
+      "Q": "Table: [TITLE]: None\nNumber of tables | Number of chairs\n1 | 2\n2 | 4\n3 | 6\n4 | 8\n5 | 10\n6 | ?\nQuestion: Each table has 2 chairs. How many chairs are at 6 tables? (Unit: chairs)",
+      "A": "Solution: Count by twos. Use the chart: there are 12 chairs at 6 tables. The answer is 12"
+    },
+    {
+      "Q": "Table: [TITLE]: None\nNumber of offices | Number of chairs\n1 | 2\n2 | 4\n3 | 6\n4 | 8\n5 | ?\nQuestion: Each office has 2 chairs. How many chairs are in 5 offices?",
+      "A": "Solution: Count by twos. Use the chart: there are 10 chairs in 5 offices. The answer is 10"
+    }
+  ],
+  "2": [
+    {
+      "Q": "Table: [TITLE]: Cookies baked\nDay | Number of cookies\nFriday | 104\nSaturday | 208\nSunday | 262\nMonday | 110\nQuestion: Brenda baked cookies each day for a bake sale. How many more cookies did Brenda bake on Sunday than on Friday? (Unit: cookies)",
+      "A": "Solution: Find the numbers in the table. Sunday: 262 Friday: 104 Now subtract: 262 - 104 = 158. Brenda baked 158 more cookies on Sunday. The answer is 158"
+    },
+    {
+      "Q": "Table: [TITLE]: Coin collections\nName | Number of coins\nWanda | 15\nKelly | 13\nJoseph | 16\nBella | 18\nQuestion: Some friends discussed the sizes of their coin collections. Who has the fewest coins?\nOptions: (A) Wanda (B) Kelly (C) Joseph (D) Bella",
+      "A": "Solution: Find the least number in the table. Remember to compare the numbers starting with the highest place value. The least number is 13. Now find the corresponding name. Kelly corresponds to 13. The answer is Kelly"
+    },
+    {
+      "Q": "Table: [TITLE]: Basketball team mascot shooting contest\nMascot | Baskets | Misses\nRhianna Rhino | 19 | 20\nAnnie Armadillo | 13 | 18\nWendy Wolverine | 14 | 1\nBarry Bulldog | 3 | 13\nBradley Bear | 14 | 1\nQuestion: At a charity basketball shootout, excited fans counted the baskets and misses made by each of the team mascots. How many more misses than baskets did Annie Armadillo have? (Unit: misses)",
+      "A": "Solution: Find the Annie Armadillo row. Find the numbers in this row for misses and baskets. misses: 18 baskets: 13 Now subtract: 18 − 13 = 5 Annie Armadillo had 5 more misses than baskets. The answer is 5"
+    },
+    {
+      "Q": "Table: [TITLE]: None\ncranberry applesauce | $3.03 per pound\nstrawberry applesauce | $3.45 per pound\nraspberry applesauce | $3.63 per pound\nblueberry applesauce | $3.71 per pound\nQuestion: Gabrielle bought 4 pounds of strawberry applesauce. How much did she spend? (Unit: $)",
+      "A": "Solution: Find the cost of the strawberry applesauce. Multiply the price per pound by the number of pounds. $3.45 × 4 = $13.80 She spent $13.80. The answer is 13.80"
+    },
+    {
+      "Q": "Table: [TITLE]: Candy production\nCompany | Number of pieces of candy\nTasty Treats | 311\nChocolate and More | 648\nGoodman Candies | 511\nQuestion: Some candy companies compared how many pieces of candy they have produced. How many more pieces of candy has Chocolate and More produced than Tasty Treats? (Unit: pieces of candy)",
+      "A": "Solution: Find the numbers in the table. Chocolate and More: 648 Tasty Treats: 311 Now subtract: 648 - 311 = 337. Chocolate and More has produced 337 more pieces of candy. The answer is 337"
+    }
+  ],
+  "3": [
+    {
+      "Q": "Table: [TITLE]: None\ntextbook | $10\nscience book | $12\ncrossword puzzle book | $18\ncoloring book | $13\nQuestion: How much money does Mitch need to buy a science book and a textbook? (Unit: $)",
+      "A": "Solution: Add the price of a science book and the price of a textbook: $12 + $10 = $22 Mitch needs $22. The answer is 22"
+    },
+    {
+      "Q": "Table: [TITLE]: None\ngreen marble | $0.03\nshapes stencil | $0.04\ncolorful pinwheel | $0.08\nblue plastic block | $0.04\nQuestion: How much money does Grace need to buy a blue plastic block and a green marble? (Unit: $)",
+      "A": "Solution: Add the price of a blue plastic block and the price of a green marble: $0.04 + $0.03 = $0.07 Grace needs $0.07. The answer is 0.07"
+    },
+    {
+      "Q": "Table: [TITLE]: None\npoetry book | $23\nhistory book | $14\nmystery novel | $24\ncrossword puzzle book | $25\nQuestion: How much money does Jared need to buy a poetry book and a mystery novel? (Unit: $)",
+      "A": "Solution: Add the price of a poetry book and the price of a mystery novel: $23 + $24 = $47 Jared needs $47. The answer is 47"
+    },
+    {
+      "Q": "Table: [TITLE]: None\nbadminton set | $13.00\nbicycle | $78.00\nbasketball jersey | $15.00\nbaseball bat | $19.00\nQuestion: How much money does Edward need to buy a bicycle and a badminton set? (Unit: $)",
+      "A": "Solution: Add the price of a bicycle and the price of a badminton set: $78.00 + $13.00 = $91.00 Edward needs $91.00. The answer is 91"
+    },
+    {
+      "Q": "Table: [TITLE]: None\npink sweater | $6.69\npair of brown pants | $9.66\nplaid scarf | $2.45\npair of sandals | $7.69\nwhite polo shirt | $4.86\nQuestion: How much money does Heather need to buy a pair of brown pants and a plaid scarf? (Unit: $)",
+      "A": "Solution: Add the price of a pair of brown pants and the price of a plaid scarf: $9.66 + $2.45 = $12.11 Heather needs $12.11. The answer is 12.11"
+    }
+  ],
+  "4": [
+    {
+      "Q": "Table: [TITLE]: None\nwinter jacket | $38\nblue sweater | $21\npair of brown pants | $23\npair of boots | $29\nQuestion: How much more does a winter jacket cost than a pair of boots? (Unit: $)",
+      "A": "Solution: Subtract the price of a pair of boots from the price of a winter jacket. $38 - $29 = $9 A winter jacket costs $9 more than a pair of boots. The answer is 9"
+    },
+    {
+      "Q": "Table: [TITLE]: None\nkitchen table | $227\nset of bunk beds | $119\nchest of drawers | $198\ndesk | $115\nQuestion: How much more does a set of bunk beds cost than a desk? (Unit: $)",
+      "A": "Solution: Subtract the price of a desk from the price of a set of bunk beds. $119 - $115 = $4 A set of bunk beds costs $4 more than a desk. The answer is 4"
+    },
+    {
+      "Q": "Table: [TITLE]: None\nstrawberry yogurt | $1.80 per kg\nplain yogurt | $1.06 per kg\nlow-fat yogurt | $1.19 per kg\nraspberry yogurt | $1.27 per kg\nnon-fat yogurt | $1.63 per kg\nblueberry yogurt | $0.55 per kg\nQuestion: Vivian buys 5 kilograms of raspberry yogurt. What is the total cost? (Unit: $)",
+      "A": "Solution: Find the cost of the raspberry yogurt. Multiply the price per kilogram by the number of kilograms. $1.27 × 5 = $6.35 The total cost is $6.35. The answer is 6.35"
+    },
+    {
+      "Q": "Table: [TITLE]: None\nrosebush | $22\nbeach umbrella | $90\npicnic table | $48\nlawn ornament | $59\nQuestion: How much more does a lawn ornament cost than a picnic table? (Unit: $)",
+      "A": "Solution: Subtract the price of a picnic table from the price of a lawn ornament. $59 - $48 = $11 A lawn ornament costs $11 more than a picnic table. The answer is 11"
+    },
+    {
+      "Q": "Table: [TITLE]: None\nhockey ticket | $37.00\nsoccer ticket | $47.00\nsymphony ticket | $28.00\ncar show ticket | $16.00\nconcert ticket | $14.00\ndance performance ticket | $43.00\nQuestion: How much more does a soccer ticket cost than a hockey ticket? (Unit: $)",
+      "A": "Solution: Subtract the price of a hockey ticket from the price of a soccer ticket. $47.00 - $37.00 = $10.00 A soccer ticket costs $10.00 more than a hockey ticket. The answer is 10"
+    }
+  ],
+  "5": [
+    {
+      "Q": "Table: [TITLE]: None\nbouncy ball | $0.59\nred balloon | $0.74\nplastic straw | $0.12\npackage of confetti | $0.66\nQuestion: Mateo has $1.35. Does he have enough to buy a package of confetti and a red balloon?\nOptions: (A) yes (B) no",
+      "A": "Solution: Add the price of a package of confetti and the price of a red balloon: $0.66 + $0.74 = $1.40 $1.40 is more than $1.35. Mateo does not have enough money. The answer is no"
+    },
+    {
+      "Q": "Table: [TITLE]: None\njar of pickles | $0.76\ncan of mushrooms | $0.87\ncan of tuna fish | $0.67\ncan of soup | $0.96\ncan of pears | $0.62\ncan of green beans | $0.62\nQuestion: How much more does a can of mushrooms cost than a can of pears? (Unit: $)",
+      "A": "Solution: Subtract the price of a can of pears from the price of a can of mushrooms. $0.87 - $0.62 = $0.25 A can of mushrooms costs $0.25 more than a can of pears. The answer is 0.25"
+    },
+    {
+      "Q": "Table: [TITLE]: None\nboat show ticket | $19.94\nfootball ticket | $71.39\ncar show ticket | $19.33\ndance performance ticket | $39.27\nQuestion: How much money does Emma need to buy a football ticket and a boat show ticket? (Unit: $)",
+      "A": "Solution: Add the price of a football ticket and the price of a boat show ticket: $71.39 + $19.94 = $91.33 Emma needs $91.33. The answer is 91.33"
+    },
+    {
+      "Q": "Table: [TITLE]: Bull's-eyes\nDay | Number of bull's-eyes\nTuesday | 11\nWednesday | 12\nThursday | 19\nFriday | 13\nQuestion: An archer recalled how many times he hit the bull's-eye in the past 4 days. On which day did the archer hit the fewest bull's-eyes?\nOptions: (A) Tuesday (B) Wednesday (C) Thursday (D) Friday",
+      "A": "Solution: Find the least number in the table. Remember to compare the numbers starting with the highest place value. The least number is 11. Now find the corresponding day. Tuesday corresponds to 11. The answer is Tuesday"
+    },
+    {
+      "Q": "Table: [TITLE]: Floors per building\nStem | Leaf \n3 | 0, 2, 3\n4 | 1, 1, 2, 3, 8, 9\n5 | 0, 1, 2, 5, 8, 9, 9\n6 | 0, 4, 5, 6, 6, 6, 7, 9\nQuestion: A city planner counted the number of floors per building in the downtown area. How many buildings have exactly 53 floors? (Unit: buildings)",
+      "A": "Solution: For the number 53, the stem is 5, and the leaf is 3. Find the row where the stem is 5. In that row, count all the leaves equal to 3. You counted 0 leaves. 0 buildings have exactly 53 floors. The answer is 0"
+    }
+  ],
+  "6": [
+    {
+      "Q": "Table: [TITLE]: None\nblueberry bars | $3.12 per pound\nlemon bars | $4.74 per pound\ncream cheese bars | $5.00 per pound\ncoffee cake | $4.21 per pound\npuffed rice bars | $6.69 per pound\npopcorn balls | $4.58 per pound\nQuestion: Barbara went to the store. She bought 5 pounds of puffed rice bars. How much did she spend? (Unit: $)",
+      "A": "Solution: Find the cost of the puffed rice bars. Multiply the price per pound by the number of pounds. $6.69 × 5 = $33.45 She spent $33.45. The answer is 33.45"
+    },
+    {
+      "Q": "Table: [TITLE]: None\nCanadian bacon | $1.87/kilogram\nsliced ham | $2.81/kilogram\nsmoked bacon | $2.16/kilogram\nsalami | $1.90/kilogram\npepperoni | $1.94/kilogram\nQuestion: Gary buys 2 kilograms of Canadian bacon. What is the total cost? (Unit: $)",
+      "A": "Solution: Find the cost of the Canadian bacon. Multiply the price per kilogram by the number of kilograms. $1.87 × 2 = $3.74 The total cost is $3.74. The answer is 3.74"
+    },
+    {
+      "Q": "Table: [TITLE]: None\nChinese lettuce | $2/pound\nromaine lettuce | $3/pound\nbutterhead lettuce | $3/pound\nkale | $1/pound\nSwiss chard | $2/pound\nsummer crisp lettuce | $5/pound\nQuestion: Kyle went to the store. He bought 3 pounds of butterhead lettuce. How much did he spend? (Unit: $)",
+      "A": "Solution: Find the cost of the butterhead lettuce. Multiply the price per pound by the number of pounds. $3 × 3 = $9 He spent $9. The answer is 9"
+    },
+    {
+      "Q": "Table: [TITLE]: None\npumpkin seeds | $1.37 per kg\nflax seeds | $2.87 per kg\nsoybeans | $1.00 per kg\nsesame seeds | $2.60 per kg\nlentils | $0.81 per kg\nsunflower seeds | $1.49 per kg\nQuestion: Dylan buys 5 kilograms of sesame seeds. What is the total cost? (Unit: $)",
+      "A": "Solution: Find the cost of the sesame seeds. Multiply the price per kilogram by the number of kilograms. $2.60 × 5 = $13 The total cost is $13. The answer is 13"
+    },
+    {
+      "Q": "Table: [TITLE]: None\nlace scraps | $3.78/kg\nsilk scraps | $3.97/kg\ncanvas scraps | $5.74/kg\nfaux fur scraps | $5.21/kg\ndenim scraps | $2.78/kg\nfelt scraps | $4.61/kg\nQuestion: Keenan wants to buy 4 kilograms of faux fur scraps. How much will he spend? (Unit: $)",
+      "A": "Solution: Find the cost of the faux fur scraps. Multiply the price per kilogram by the number of kilograms. $5.21 × 4 = $20.84 He will spend $20.84. The answer is 20.84"
+    }
+  ],
+  "7": [
+    {
+      "Q": "Table: [TITLE]: Scores on a board game\nScore | Frequency\n6 | 7\n7 | 6\n8 | 18\n9 | 2\n10 | 12\nQuestion: Emmett and his friends recorded their scores while playing a board game. How many people scored 10?",
+      "A": "Solution: Find the row for 10 and read the frequency. The frequency is 12. 12 people scored 10. The answer is 12"
+    },
+    {
+      "Q": "Table: [TITLE]: Making candy necklaces\nCandy necklaces made | Frequency\n0 | 9\n1 | 20\n2 | 12\n3 | 13\nQuestion: While working as a summer camp counselor, Marcy monitored how many candy necklaces each child made. How many children made more than 2 candy necklaces?",
+      "A": "Solution: Find the row for 3 candy necklaces and read the frequency. The frequency is 13. 13 children made more than 2 candy necklaces. The answer is 13"
+    },
+    {
+      "Q": "Table: [TITLE]: Going down the slide at recess\nNumber of times | Frequency\n0 | 11\n1 | 19\n2 | 8\n3 | 20\n4 | 4\n5 | 13\nQuestion: A school interested in expanding its playground counted the number of times that students went down the slide during recess. How many students went down the slide more than 4 times?",
+      "A": "Solution: Find the row for 5 times and read the frequency. The frequency is 13. 13 students went down the slide more than 4 times. The answer is 13"
+    },
+    {
+      "Q": "Table: [TITLE]: Eating cereal last week\nTimes eaten | Frequency\n0 | 17\n1 | 0\n2 | 14\n3 | 11\n4 | 9\nQuestion: A researcher working for a cereal company surveyed people about their cereal consumption habits. How many people ate cereal exactly 4 times last week?",
+      "A": "Solution: Find the row for 4 times and read the frequency. The frequency is 9. 9 people ate cereal exactly 4 times last week. The answer is 9"
+    },
+    {
+      "Q": "Table: [TITLE]: Scores in a card game\nScore | Frequency\n4 | 2\n5 | 4\n6 | 3\n7 | 10\n8 | 17\n9 | 19\n10 | 6\nQuestion: Carla figured out the scores at the end of a card game. How many people scored less than 5?",
+      "A": "Solution: Find the row for 4 and read the frequency. The frequency is 2. 2 people scored less than 5. The answer is 2"
+    }
+  ],
+  "8": [
+    {
+      "Q": "Table: [TITLE]: None\nNumber of packages | Number of erasers\n1 | 2\n2 | 4\n3 | 6\n4 | 8\n5 | ?\nQuestion: Each package has 2 erasers. How many erasers are in 5 packages? (Unit: erasers)",
+      "A": "Solution: Count by twos. Use the chart: there are 10 erasers in 5 packages. The answer is 10"
+    },
+    {
+      "Q": "Table: [TITLE]: None\nNumber of restaurants | Number of dishwashers\n1 | 5\n2 | 10\n3 | 15\n4 | ?\nQuestion: Each restaurant has 5 dishwashers. How many dishwashers are in 4 restaurants?",
+      "A": "Solution: Count by fives. Use the chart: there are 20 dishwashers in 4 restaurants. The answer is 20"
+    },
+    {
+      "Q": "Table: [TITLE]: None\nNumber of ponds | Number of frogs\n1 | 2\n2 | 4\n3 | 6\n4 | 8\n5 | ?\nQuestion: Each pond has 2 frogs. How many frogs are in 5 ponds?",
+      "A": "Solution: Count by twos. Use the chart: there are 10 frogs in 5 ponds. The answer is 10"
+    },
+    {
+      "Q": "Table: [TITLE]: None\nNumber of baskets | Number of daisies\n1 | 10\n2 | 20\n3 | ?\nQuestion: Each basket has 10 daisies. How many daisies are in 3 baskets?",
+      "A": "Solution: Count by tens. Use the chart: there are 30 daisies in 3 baskets. The answer is 30"
+    },
+    {
+      "Q": "Table: [TITLE]: None\nNumber of laundry baskets | Number of pairs of pants\n1 | 2\n2 | 4\n3 | 6\n4 | 8\n5 | ?\nQuestion: Each laundry basket has 2 pairs of pants. How many pairs of pants are in 5 laundry baskets?",
+      "A": "Solution: Count by twos. Use the chart: there are 10 pairs of pants in 5 laundry baskets. The answer is 10"
+    }
+  ],
+  "9": [
+    {
+      "Q": "Table: [TITLE]: None\nwaffle maker | $33.00\nblender | $11.00\ncomputer mouse | $19.00\ntoaster | $44.00\nQuestion: How much money does Tammy need to buy 3 computer mice? (Unit: $)",
+      "A": "Solution: Find the total cost of 3 computer mice by multiplying 3 times the price of a computer mouse. $19.00 × 3 = $57.00 Tammy needs $57.00. The answer is 57"
+    },
+    {
+      "Q": "Table: [TITLE]: None\ncan of soup | $0.59\ncan of peaches | $0.66\ncan of mushrooms | $0.40\ncan of fruit cocktail | $0.53\njar of pickles | $0.93\nQuestion: How much money does Preston need to buy 3 jars of pickles? (Unit: $)",
+      "A": "Solution: Find the total cost of 3 jars of pickles by multiplying 3 times the price of a jar of pickles. $0.93 × 3 = $2.79 Preston needs $2.79. The answer is 2.79"
+    },
+    {
+      "Q": "Table: [TITLE]: None\ngreen pipe cleaner | $0.23\nfake yellow daisy | $0.30\nsilver bow | $0.36\nsewing needle | $0.25\nbig blue button | $0.14\nred ribbon | $0.36\nQuestion: How much money does Ted need to buy a fake yellow daisy, a silver bow, and a green pipe cleaner? (Unit: $)",
+      "A": "Solution: Find the total cost of a fake yellow daisy, a silver bow, and a green pipe cleaner. $0.30 + $0.36 + $0.23 = $0.89 Ted needs $0.89. The answer is 0.89"
+    },
+    {
+      "Q": "Table: [TITLE]: None\nbrownie | $0.61\ncup of coffee | $0.86\npickle | $0.47\nice cream cone | $0.93\nbagel | $0.79\nchocolate-chip cookie | $0.45\nQuestion: How much money does Clara need to buy 7 brownies? (Unit: $)",
+      "A": "Solution: Find the total cost of 7 brownies by multiplying 7 times the price of a brownie. $0.61 × 7 = $4.27 Clara needs $4.27. The answer is 4.27"
+    },
+    {
+      "Q": "Table: [TITLE]: None\nFrench horn | $2,761\nclarinet | $1,997\ncello | $3,790\ncornet | $1,655\nQuestion: How much money does Jayden need to buy 4 cellos? (Unit: $)",
+      "A": "Solution: Find the total cost of 4 cellos by multiplying 4 times the price of a cello. $3,790 × 4 = $15,160 Jayden needs $15,160. The answer is 15,160"
+    }
+  ]
+}

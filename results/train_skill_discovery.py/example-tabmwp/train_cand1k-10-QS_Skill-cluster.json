@@ -1,0 +1,222 @@
+{
+  "0": [
+    {
+      "Q": "Table: [TITLE]: None\nairplane calendar | $2\nmap of Africa | $3\nmap of Canada | $6\nmap of the United States | $2\nmap of the world | $8\nQuestion: How much money does Eddie need to buy a map of Canada and a map of the world? (Unit: $)",
+      "A": "Solution: Add the price of a map of Canada and the price of a map of the world: $6 + $8 = $14 Eddie needs $14. The answer is 14"
+    },
+    {
+      "Q": "Table: [TITLE]: None\nprecision balance | $1,039\ncentrifuge | $9,693\ntelescope | $4,368\nmicroscope | $1,955\nQuestion: How much money does Darnell need to buy a precision balance and a microscope? (Unit: $)",
+      "A": "Solution: Add the price of a precision balance and the price of a microscope: $1,039 + $1,955 = $2,994 Darnell needs $2,994. The answer is 2,994"
+    },
+    {
+      "Q": "Table: [TITLE]: None\ntrampoline | $66.95\nmodel railroad set | $80.34\ntoy guitar | $24.29\nteddy bear | $18.96\nQuestion: Franco has $88.50. Does he have enough to buy a teddy bear and a trampoline?\nOptions: (A) yes (B) no",
+      "A": "Solution: Add the price of a teddy bear and the price of a trampoline: $18.96 + $66.95 = $85.91 $85.91 is less than $88.50. Franco does have enough money. The answer is yes"
+    },
+    {
+      "Q": "Table: [TITLE]: None\nforklift | $9,243.00\nhydrofoil | $9,792.00\nrace car | $9,042.00\ndump truck | $8,417.00\nbulldozer | $7,761.00\ncrane | $9,107.00\nQuestion: How much money does Lindsey need to buy a dump truck and a forklift? (Unit: $)",
+      "A": "Solution: Add the price of a dump truck and the price of a forklift: $8,417.00 + $9,243.00 = $17,660.00 Lindsey needs $17,660.00. The answer is 17,660"
+    },
+    {
+      "Q": "Table: [TITLE]: None\nwhite polo shirt | $6.00\nstriped shirt | $8.00\norange T-shirt | $6.00\nlong-sleeved shirt | $5.00\npair of white socks | $4.00\nQuestion: How much money does Roger need to buy a white polo shirt and an orange T-shirt? (Unit: $)",
+      "A": "Solution: Add the price of a white polo shirt and the price of an orange T-shirt: $6.00 + $6.00 = $12.00 Roger needs $12.00. The answer is 12"
+    }
+  ],
+  "1": [
+    {
+      "Q": "Table: [TITLE]: Students receiving scholarships\nYear | Students\n2008 | 46\n2009 | 47\n2010 | 40\n2011 | 42\n2012 | 44\nQuestion: The financial aid office at Jones University produced an internal report on the number of students receiving scholarships. According to the table, what was the rate of change between 2010 and 2011? (Unit: students per year)",
+      "A": "Solution: Plug the numbers into the formula for rate of change and simplify. Rate of change = \\frac{change in value}{change in time} = \\frac{42 students - 40 students}{2011 - 2010} = \\frac{42 students - 40 students}{1 year} = \\frac{2 students}{1 year} = 2 students per year The rate of change between 2010 and 2011 was 2 students per year. The answer is 2"
+    },
+    {
+      "Q": "Table: [TITLE]: Students receiving scholarships\nYear | Students\n2007 | 35\n2008 | 24\n2009 | 29\n2010 | 32\n2011 | 27\nQuestion: The financial aid office at Lopez University produced an internal report on the number of students receiving scholarships. According to the table, what was the rate of change between 2008 and 2009? (Unit: students per year)",
+      "A": "Solution: Plug the numbers into the formula for rate of change and simplify. Rate of change = \\frac{change in value}{change in time} = \\frac{29 students - 24 students}{2009 - 2008} = \\frac{29 students - 24 students}{1 year} = \\frac{5 students}{1 year} = 5 students per year The rate of change between 2008 and 2009 was 5 students per year. The answer is 5"
+    },
+    {
+      "Q": "Table: [TITLE]: Games won by the Middletown baseball team\nYear | Games won\n2008 | 2\n2009 | 4\n2010 | 10\n2011 | 3\n2012 | 2\nQuestion: Fans of the Middletown baseball team compared the number of games won by their team each year. According to the table, what was the rate of change between 2008 and 2009? (Unit: games per year)",
+      "A": "Solution: Plug the numbers into the formula for rate of change and simplify. Rate of change = \\frac{change in value}{change in time} = \\frac{4 games - 2 games}{2009 - 2008} = \\frac{4 games - 2 games}{1 year} = \\frac{2 games}{1 year} = 2 games per year The rate of change between 2008 and 2009 was 2 games per year. The answer is 2"
+    },
+    {
+      "Q": "Table: [TITLE]: Loaves of leftover bread\nDay | Leftover loaves\nMonday | 16\nTuesday | 19\nWednesday | 14\nThursday | 11\nFriday | 2\nQuestion: A vendor who sold bread at farmers' markets counted the number of leftover loaves at the end of each day. According to the table, what was the rate of change between Wednesday and Thursday? (Unit: loaves per day)",
+      "A": "Solution: Plug the numbers into the formula for rate of change and simplify. Rate of change = \\frac{change in value}{change in time} = \\frac{11 loaves - 14 loaves}{1 day} = \\frac{-3 loaves}{1 day} = -3 loaves per day The rate of change between Wednesday and Thursday was - 3 loaves per day. The answer is -3"
+    },
+    {
+      "Q": "Table: [TITLE]: Loaves of leftover bread\nDay | Leftover loaves\nSunday | 29\nMonday | 30\nTuesday | 39\nWednesday | 31\nThursday | 32\nQuestion: A vendor who sold bread at farmers' markets counted the number of leftover loaves at the end of each day. According to the table, what was the rate of change between Wednesday and Thursday? (Unit: loaves per day)",
+      "A": "Solution: Plug the numbers into the formula for rate of change and simplify. Rate of change = \\frac{change in value}{change in time} = \\frac{32 loaves - 31 loaves}{1 day} = \\frac{1 loaf}{1 day} = 1 loaf per day The rate of change between Wednesday and Thursday was 1 loaf per day. The answer is 1"
+    }
+  ],
+  "2": [
+    {
+      "Q": "Table: [TITLE]: Pages per magazine\nStem | Leaf \n1 | 6\n2 | 5, 7\n3 | \n4 | 9\n5 | 1, 8\n6 | 4\n7 | 4, 8\n8 | 1, 9\n9 | 0\nQuestion: Martina, a journalism student, counted the number of pages in several major magazines. How many magazines had less than 80 pages?",
+      "A": "Solution: Count all the leaves in the rows with stems 1, 2, 3, 4, 5, 6, and 7. You counted 9 leaves, which are blue in the stem-and-leaf plot above. 9 magazines had less than 80 pages. The answer is 9"
+    },
+    {
+      "Q": "Table: [TITLE]: Going down the slide at recess\nNumber of times | Frequency\n0 | 15\n1 | 4\n2 | 5\n3 | 13\n4 | 19\n5 | 6\n6 | 3\nQuestion: A school interested in expanding its playground counted the number of times that students went down the slide during recess. How many students are there in all?",
+      "A": "Solution: Add the frequencies for each row. Add: 15 + 4 + 5 + 13 + 19 + 6 + 3 = 65 There are 65 students in all. The answer is 65"
+    },
+    {
+      "Q": "Table: [TITLE]: Drawing a number between 1 and 6\nNumber drawn | Frequency\n1 | 0\n2 | 15\n3 | 14\n4 | 16\n5 | 12\n6 | 2\nQuestion: A statistics lab required students to draw cards numbered between 1 and 6 and track the results. How many students drew a number greater than 5?",
+      "A": "Solution: Find the row for 6 and read the frequency. The frequency is 2. 2 students drew a number greater than 5. The answer is 2"
+    },
+    {
+      "Q": "Table: [TITLE]: Absences\nStudent | 2007 | 2008\nArianna | 1 | 12\nTyler | 7 | 9\nBecky | 14 | 17\nQuestion: A teacher at Nolan Middle School studied the absence rates of her students over the course of a few years. Who had more absences in 2008, Becky or Tyler?\nOptions: (A) Tyler (B) Becky",
+      "A": "Solution: Find the 2008 column. Compare the numbers in this column for Becky and Tyler. 17 is more than 9. Becky had more absences in 2008. The answer is Becky"
+    },
+    {
+      "Q": "Table: [TITLE]: Cheese consumption per capita (kg)\nCountry | 1996 | 2006\nGermany | 12 | 20\nAustria | 10 | 17\nAustralia | 10 | 10\nQuestion: An agricultural agency is researching how much cheese people have been eating in different parts of the world. How much more cheese did Germany consume per capita in 2006 than in 1996? (Unit: kg)",
+      "A": "Solution: Find the Germany row. Find the numbers in this row for 2006 and 1996. 2006: 20 1996: 12 Now subtract: 20 − 12 = 8 Germany consumed 8 kilograms more cheese per capita in 2006 than in 1996. The answer is 8"
+    }
+  ],
+  "3": [
+    {
+      "Q": "Table: [TITLE]: None\nstrawberries | $5 per pound\nraspberries | $2 per pound\nblueberries | $4 per pound\nloganberries | $4 per pound\nQuestion: Tim buys 1 pound of strawberries. How much does he spend? (Unit: $)",
+      "A": "Solution: Find the cost of the strawberries. Multiply the price per pound by the number of pounds. $5 × 1 = $5 He spends $5. The answer is 5"
+    },
+    {
+      "Q": "Table: [TITLE]: None\noatmeal | $2 per pound\nwheat flakes | $5 per pound\nmulti-grain cereal | $3 per pound\ngranola | $6 per pound\nQuestion: What is the total cost for 1/4 of a pound of wheat flakes? (Unit: $)",
+      "A": "Solution: Find the cost of the wheat flakes. Multiply the price per pound by the number of pounds. $5 × \\frac{1}{4} = $5 × 0.25 = $1.25 The total cost is $1.25. The answer is 1.25"
+    },
+    {
+      "Q": "Table: [TITLE]: None\nboysenberry jam | $8/pound\napple butter | $4/pound\nraspberry jam | $7/pound\nmarmalade | $3/pound\nQuestion: Gary wants to buy 1/2 of a pound of boysenberry jam. How much will he spend? (Unit: $)",
+      "A": "Solution: Find the cost of the boysenberry jam. Multiply the price per pound by the number of pounds. $8 × \\frac{1}{2} = $8 × 0.5 = $4 He will spend $4. The answer is 4"
+    },
+    {
+      "Q": "Table: [TITLE]: None\nblack tea | $5/pound\nchai tea | $5/pound\nchamomile tea | $4/pound\ngreen tea | $3/pound\npeppermint tea | $3/pound\nQuestion: Carter buys 0.8 pounds of green tea. How much does he spend? (Unit: $)",
+      "A": "Solution: Find the cost of the green tea. Multiply the price per pound by the number of pounds. $3 × 0.8 = $2.40 He spends $2.40. The answer is 2.40"
+    },
+    {
+      "Q": "Table: [TITLE]: None\ngraduation confetti | $12 per pound\nheart confetti | $10 per pound\nanimal confetti | $10 per pound\nholiday confetti | $11 per pound\nQuestion: Lester wants to buy 2 pounds of heart confetti. How much will he spend? (Unit: $)",
+      "A": "Solution: Find the cost of the heart confetti. Multiply the price per pound by the number of pounds. $10 × 2 = $20 He will spend $20. The answer is 20"
+    }
+  ],
+  "4": [
+    {
+      "Q": "Table: [TITLE]: Stuffed animal collections\nName | Number of stuffed animals\nVicky | 82\nShannon | 83\nEllen | 80\nLiz | 89\nQuestion: Some friends compared the sizes of their stuffed animal collections. Who has the most stuffed animals?\nOptions: (A) Vicky (B) Shannon (C) Ellen (D) Liz",
+      "A": "Solution: Find the greatest number in the table. Remember to compare the numbers starting with the highest place value. The greatest number is 89. Now find the corresponding name. Liz corresponds to 89. The answer is Liz"
+    },
+    {
+      "Q": "Table: [TITLE]: None\nPrice | Quantity demanded | Quantity supplied\n$700 | 16,800 | 3,100\n$710 | 13,600 | 7,000\n$720 | 10,400 | 10,900\n$730 | 7,200 | 14,800\n$740 | 4,000 | 18,700\nQuestion: Look at the table. Then answer the question. At a price of $710, is there a shortage or a surplus?\nOptions: (A) shortage (B) surplus",
+      "A": "Solution: At the price of $710, the quantity demanded is greater than the quantity supplied. There is not enough of the good or service for sale at that price. So, there is a shortage. The answer is shortage"
+    },
+    {
+      "Q": "Table: [TITLE]: None\nPrice | Quantity demanded | Quantity supplied\n$145 | 18,200 | 7,400\n$225 | 14,300 | 8,500\n$305 | 10,400 | 9,600\n$385 | 6,500 | 10,700\n$465 | 2,600 | 11,800\nQuestion: Look at the table. Then answer the question. At a price of $385, is there a shortage or a surplus?\nOptions: (A) shortage (B) surplus",
+      "A": "Solution: At the price of $385, the quantity demanded is less than the quantity supplied. There is too much of the good or service for sale at that price. So, there is a surplus. The answer is surplus"
+    },
+    {
+      "Q": "Table: [TITLE]: None\nPrice | Quantity demanded | Quantity supplied\n$745 | 22,700 | 3,900\n$865 | 21,400 | 8,100\n$985 | 20,100 | 12,300\n$1,105 | 18,800 | 16,500\n$1,225 | 17,500 | 20,700\nQuestion: Look at the table. Then answer the question. At a price of $985, is there a shortage or a surplus?\nOptions: (A) shortage (B) surplus",
+      "A": "Solution: At the price of $985, the quantity demanded is greater than the quantity supplied. There is not enough of the good or service for sale at that price. So, there is a shortage. The answer is shortage"
+    },
+    {
+      "Q": "Table: [TITLE]: Magazines sold\nMonth | Number of magazines\nMarch | 552\nApril | 515\nMay | 512\nJune | 522\nQuestion: A magazine editor looked at his sales figures for the past 4 months. In which month were the fewest copies sold?\nOptions: (A) March (B) April (C) May (D) June",
+      "A": "Solution: Find the least number in the table. Remember to compare the numbers starting with the highest place value. The least number is 512. Now find the corresponding month. May corresponds to 512. The answer is May"
+    }
+  ],
+  "5": [
+    {
+      "Q": "Table: [TITLE]: Cars per parking lot\nStem | Leaf \n3 | 0, 4, 6\n4 | 3, 3, 4, 8, 9\n5 | 1, 7, 7, 9, 9\n6 | 0, 2, 5, 7\n7 | 3, 3, 6, 6, 7, 7, 8, 8\nQuestion: In a study on public parking, the director of transportation counted the number of cars in each of the city's parking lots. How many parking lots had exactly 51 cars? (Unit: parking lots)",
+      "A": "Solution: For the number 51, the stem is 5, and the leaf is 1. Find the row where the stem is 5. In that row, count all the leaves equal to 1. You counted 1 leaf, which is blue in the stem-and-leaf plot above. 1 parking lot had exactly 51 cars. The answer is 1"
+    },
+    {
+      "Q": "Table: [TITLE]: Pairs of shoes per store\nStem | Leaf \n1 | 9\n2 | 3, 3\n3 | 0, 2\n4 | 2, 4\n5 | 5, 7\n6 | 2, 5\n7 | 7\n8 | 0, 2, 4, 4\n9 | 0, 0\nQuestion: Ivan counted the number of pairs of shoes for sale at each of the shoe stores in the mall. How many stores have exactly 23 pairs of shoes?",
+      "A": "Solution: For the number 23, the stem is 2, and the leaf is 3. Find the row where the stem is 2. In that row, count all the leaves equal to 3. You counted 2 leaves, which are blue in the stem-and-leaf plot above. 2 stores have exactly23 pairs of shoes. The answer is 2"
+    },
+    {
+      "Q": "Table: [TITLE]: Club sizes (number of members)\nStem | Leaf \n2 | 6, 7\n3 | 5, 6, 7, 9\n4 | 6, 9\n5 | 1, 2, 3, 6\n6 | 2, 5, 7\n7 | 0, 1\n8 | 4, 4, 6\n9 | 0\nQuestion: Rebecca found out the sizes of all the clubs at her school. How many clubs have exactly 84 members? (Unit: clubs)",
+      "A": "Solution: For the number 84, the stem is 8, and the leaf is 4. Find the row where the stem is 8. In that row, count all the leaves equal to 4. You counted 2 leaves, which are blue in the stem-and-leaf plot above. 2 clubs have exactly 84 members. The answer is 2"
+    },
+    {
+      "Q": "Table: [TITLE]: Committee sizes (number of members)\nStem | Leaf \n1 | 6, 9\n2 | \n3 | 1\n4 | 0\n5 | \n6 | 0, 9\n7 | \n8 | \n9 | 0, 0\nQuestion: While writing a paper on making decisions in groups, Erica researched the size of a number of committees. How many committees have exactly 90 members? (Unit: committees)",
+      "A": "Solution: For the number 90, the stem is 9, and the leaf is 0. Find the row where the stem is 9. In that row, count all the leaves equal to 0. You counted 2 leaves, which are blue in the stem-and-leaf plot above. 2 committees have exactly 90 members. The answer is 2"
+    },
+    {
+      "Q": "Table: [TITLE]: Pairs of shoes per store\nStem | Leaf \n1 | 9\n2 | \n3 | 0, 2\n4 | 7\n5 | \n6 | \n7 | \n8 | 4\n9 | 0\nQuestion: Julie counted the number of pairs of shoes for sale at each of the shoe stores in the mall. How many stores have exactly 47 pairs of shoes? (Unit: stores)",
+      "A": "Solution: For the number 47, the stem is 4, and the leaf is 7. Find the row where the stem is 4. In that row, count all the leaves equal to 7. You counted 1 leaf, which is blue in the stem-and-leaf plot above. 1 store has exactly 47 pairs of shoes. The answer is 1"
+    }
+  ],
+  "6": [
+    {
+      "Q": "Table: [TITLE]: Tour bus schedule\nLocation | Arrive | Depart\nthe riverfront | 9:55 A.M. | 10:20 A.M.\nthe zoo | 10:35 A.M. | 11:30 A.M.\nart museum | 12:05 P.M. | 12:30 P.M.\nscience museum | 1:00 P.M. | 1:45 P.M.\nskyscraper | 1:50 P.M. | 2:20 P.M.\ngovernor's mansion | 2:50 P.M. | 3:45 P.M.\nold building | 4:00 P.M. | 4:45 P.M.\nfamous bridge | 5:15 P.M. | 5:40 P.M.\nthe aquarium | 6:20 P.M. | 7:00 P.M.\nlandmark sculpture | 7:45 P.M. | 8:20 P.M.\nQuestion: Look at the following schedule. Which stop does the bus depart from at 11.30 A.M.?\nOptions: (A) zoo (B) riverfront (C) old building (D) science museum",
+      "A": "Solution: Find 11:30 A. M. on the schedule. The bus departs from the zoo at 11:30 A. M. The answer is zoo"
+    },
+    {
+      "Q": "Table: [TITLE]: Field day schedule\nEvent | Begin | End\nballoon stomp | 11:45 A.M. | 12:15 P.M.\nobstacle course | 12:30 P.M. | 1:00 P.M.\negg relay | 1:05 P.M. | 1:25 P.M.\nhula hoop contest | 1:30 P.M. | 1:50 P.M.\nrelay race | 2:00 P.M. | 2:25 P.M.\nhurdles | 2:30 P.M. | 3:25 P.M.\npotato sack race | 3:35 P.M. | 4:30 P.M.\nQuestion: Look at the following schedule. Which event ends at 1.00 P.M.?\nOptions: (A) obstacle course (B) potato sack race (C) egg relay (D) hurdles",
+      "A": "Solution: Find 1:00 P. M. on the schedule. The obstacle course ends at 1:00 P. M. The answer is obstacle course"
+    },
+    {
+      "Q": "Table: [TITLE]: Field day schedule\nEvent | Begin | End\nrelay race | 9:50 A.M. | 10:30 A.M.\nobstacle course | 10:45 A.M. | 11:10 A.M.\nballoon stomp | 11:20 A.M. | 12:00 P.M.\npotato sack race | 12:10 P.M. | 12:30 P.M.\nwater balloon toss | 12:45 P.M. | 1:00 P.M.\nthree-legged race | 1:05 P.M. | 1:45 P.M.\nbean bag toss | 2:00 P.M. | 2:40 P.M.\negg relay | 2:45 P.M. | 3:45 P.M.\nQuestion: Look at the following schedule. When does the egg relay end?\nOptions: (A) 1:05 P.M. (B) 3:45 P.M. (C) 2:45 P.M. (D) 10:45 A.M.",
+      "A": "Solution: Find the egg relay on the schedule. Find the end time for the egg relay. egg relay: 3:45 P. M. The answer is 3:45 P.M."
+    },
+    {
+      "Q": "Table: [TITLE]: Train schedule\nBrookfield | 6:45 A.M. | 7:30 A.M. | 8:00 A.M. | 9:45 A.M.\nOxford | 8:00 A.M. | 8:45 A.M. | 9:15 A.M. | 11:00 A.M.\nNewton | 9:30 A.M. | 10:15 A.M. | 10:45 A.M. | 12:30 P.M.\nFairview | 10:15 A.M. | 11:00 A.M. | 11:30 A.M. | 1:15 P.M.\nBloomington | 11:30 A.M. | 12:15 P.M. | 12:45 P.M. | 2:30 P.M.\nNewberg | 1:15 P.M. | 2:00 P.M. | 2:30 P.M. | 4:15 P.M.\nQuestion: Look at the following schedule. Isabelle got on the train at Oxford at 9.15 A.M. What time will she get to Fairview?\nOptions: (A) 11:30 A.M. (B) 1:15 P.M. (C) 4:15 P.M. (D) 10:15 A.M.",
+      "A": "Solution: Find 9:15 A. M. in the row for Oxford. That column shows the schedule for the train that Isabelle is on. Look down the column until you find the row for Fairview. Isabelle will get to Fairview at 11:30 A. M. The answer is 11:30 A.M."
+    },
+    {
+      "Q": "Table: [TITLE]: Class schedule\nSubject | Begin | End\nMath | 8:15 A.M. | 8:50 A.M.\nChemistry | 9:00 A.M. | 9:30 A.M.\nEnglish | 9:40 A.M. | 10:30 A.M.\nArt | 10:35 A.M. | 11:55 A.M.\nBiology | 12:00 P.M. | 12:45 P.M.\nMusic | 12:55 P.M. | 1:30 P.M.\nGym | 1:35 P.M. | 2:55 P.M.\nAstronomy | 3:05 P.M. | 4:20 P.M.\nQuestion: Look at the following schedule. When does Music class begin?\nOptions: (A) 12:55 P.M. (B) 9:00 A.M. (C) 3:05 P.M. (D) 12:00 P.M.",
+      "A": "Solution: Find Music class on the schedule. Find the beginning time for Music class. Music: 12:55 P. M. The answer is 12:55 P.M."
+    }
+  ],
+  "7": [
+    {
+      "Q": "Table: [TITLE]: None\nNumber of bushes | Number of roses\n1 | 5\n2 | 10\n3 | 15\n4 | 20\n5 | 25\n6 | ?\nQuestion: Each bush has 5 roses. How many roses are on 6 bushes?",
+      "A": "Solution: Count by fives. Use the chart: there are 30 roses on 6 bushes. The answer is 30"
+    },
+    {
+      "Q": "Table: [TITLE]: None\nNumber of bags | Number of wooden beads\n1 | 5\n2 | 10\n3 | ?\nQuestion: Each bag has 5 wooden beads. How many wooden beads are in 3 bags?",
+      "A": "Solution: Count by fives. Use the chart: there are 15 wooden beads in 3 bags. The answer is 15"
+    },
+    {
+      "Q": "Table: [TITLE]: None\nNumber of shelves | Number of cups\n1 | 10\n2 | 20\n3 | 30\n4 | 40\n5 | 50\n6 | ?\nQuestion: Each shelf has 10 cups. How many cups are on 6 shelves?",
+      "A": "Solution: Count by tens. Use the chart: there are 60 cups on 6 shelves. The answer is 60"
+    },
+    {
+      "Q": "Table: [TITLE]: None\nNumber of piles | Number of CDs\n1 | 2\n2 | 4\n3 | 6\n4 | 8\n5 | ?\nQuestion: Each pile has 2 CDs. How many CDs are in 5 piles?",
+      "A": "Solution: Count by twos. Use the chart: there are 10 CDs in 5 piles. The answer is 10"
+    },
+    {
+      "Q": "Table: [TITLE]: None\nNumber of offices | Number of chairs\n1 | 2\n2 | 4\n3 | 6\n4 | 8\n5 | ?\nQuestion: Each office has 2 chairs. How many chairs are in 5 offices?",
+      "A": "Solution: Count by twos. Use the chart: there are 10 chairs in 5 offices. The answer is 10"
+    }
+  ],
+  "8": [
+    {
+      "Q": "Table: [TITLE]: Coin collections\nName | Number of coins\nMarie | 7\nAustin | 8\nConnor | 9\nShannon | 6\nKen | 5\nQuestion: Some friends discussed the sizes of their coin collections. What is the mean of the numbers?",
+      "A": "Solution: Read the numbers from the table. 7, 8, 9, 6, 5 First, count how many numbers are in the group. There are 5 numbers. Now add all the numbers together: 7 + 8 + 9 + 6 + 5 = 35 Now divide the sum by the number of numbers: 35 ÷ 5 = 7 The mean is 7. The answer is 7"
+    },
+    {
+      "Q": "Table: [TITLE]: Ages of cousins\nName | Age (years)\nErik | 19\nColette | 14\nWarren | 14\nDave | 20\nReid | 19\nAlvin | 9\nSam | 20\nJanelle | 14\nQuestion: A girl compared the ages of her cousins. What is the range of the numbers?",
+      "A": "Solution: Read the numbers from the table. 19, 14, 14, 20, 19, 9, 20, 14 First, find the greatest number. The greatest number is 20. Next, find the least number. The least number is 9. Subtract the least number from the greatest number: 20 − 9 = 11 The range is 11. The answer is 11"
+    },
+    {
+      "Q": "Table: [TITLE]: Miles biked\nDay | Number of miles\nFriday | 9\nSaturday | 9\nSunday | 4\nMonday | 8\nTuesday | 6\nWednesday | 6\nQuestion: Victor kept a written log of how many miles he biked during the past 6 days. What is the mean of the numbers?",
+      "A": "Solution: Read the numbers from the table. 9, 9, 4, 8, 6, 6 First, count how many numbers are in the group. There are 6 numbers. Now add all the numbers together: 9 + 9 + 4 + 8 + 6 + 6 = 42 Now divide the sum by the number of numbers: 42 ÷ 6 = 7 The mean is 7. The answer is 7"
+    },
+    {
+      "Q": "Table: [TITLE]: Hours of babysitting\nMonth | Hours\nJanuary | 4\nFebruary | 2\nMarch | 8\nApril | 2\nMay | 4\nJune | 8\nJuly | 4\nAugust | 3\nQuestion: Kimberly looked at her calendar to figure out how much time she spent babysitting each month. What is the mode of the numbers?",
+      "A": "Solution: Read the numbers from the table. 4, 2, 8, 2, 4, 8, 4, 3 First, arrange the numbers from least to greatest: 2, 2, 3, 4, 4, 4, 8, 8 Now count how many times each number appears. 2 appears 2 times. 3 appears 1 time. 4 appears 3 times. 8 appears 2 times. The number that appears most often is 4. The mode is 4. The answer is 4"
+    },
+    {
+      "Q": "Table: [TITLE]: Ages of cousins\nName | Age (years)\nSophie | 8\nLarry | 1\nKayla | 7\nAnn | 7\nDylan | 11\nTessa | 4\nQuestion: A girl compared the ages of her cousins. What is the range of the numbers?",
+      "A": "Solution: Read the numbers from the table. 8, 1, 7, 7, 11, 4 First, find the greatest number. The greatest number is 11. Next, find the least number. The least number is 1. Subtract the least number from the greatest number: 11 − 1 = 10 The range is 10. The answer is 10"
+    }
+  ],
+  "9": [
+    {
+      "Q": "Table: [TITLE]: None\n | A vegetarian diet | An omnivorous diet\nDog | 3 | 8\nCat | 4 | 5\nQuestion: A health instructor surveyed all her students, and tallied the results. The first survey question asked, \"Do you adhere to a vegetarian diet or omnivorous diet?\" The second question asked, \"If you were to buy a pet today, which animal would it be?\" What is the probability that a randomly selected student would buy a cat and adheres to a vegetarian diet? Simplify any fractions.",
+      "A": "Solution: Let A be the event \"the student would buy a cat\" and B be the event \"the student adheres to a vegetarian diet\". To find the probability that a student would buy a cat and adheres to a vegetarian diet, first identify the sample space and the event. The outcomes in the sample space are the different students. Each student is equally likely to be selected, so this is a uniform probability model. The event is A and B, \"the student would buy a cat and adheres to a vegetarian diet\". Since this is a uniform probability model, count the number of outcomes in the event A and B and count the total number of outcomes. Then, divide them to compute the probability. Find the number of outcomes in the event A and B. A and B is the event \"the student would buy a cat and adheres to a vegetarian diet\", so look at the table to see how many students would buy a cat and adhere to a vegetarian diet. The number of students who would buy a cat and adhere to a vegetarian diet is 4. Find the total number of outcomes. Add all the numbers in the table to find the total number of students. 3 + 4 + 8 + 5 = 20 Find P(A and B). Since all outcomes are equally likely, the probability of event A and B is the number of outcomes in event A and B divided by the total number of outcomes. P(A and B) = \\frac{# of outcomes in A and B}{total # of outcomes} = \\frac{4}{20} = \\frac{1}{5} The probability that a student would buy a cat and adheres to a vegetarian diet is \\frac{1}{5}. The answer is 1/5"
+    },
+    {
+      "Q": "Table: [TITLE]: None\n | Strawberry jelly | Grape jelly\nCreamy peanut butter | 5 | 5\nChunky peanut butter | 6 | 4\nQuestion: Anita is a sandwich maker at a local deli. Last week, she tracked the number of peanut butter and jelly sandwiches ordered, noting the flavor of jelly and type of peanut butter requested. What is the probability that a randomly selected sandwich was made with chunky peanut butter and strawberry jelly? Simplify any fractions.",
+      "A": "Solution: Let A be the event \"the sandwich was made with chunky peanut butter\" and B be the event \"the sandwich was made with strawberry jelly\". To find the probability that a sandwich was made with chunky peanut butter and strawberry jelly, first identify the sample space and the event. The outcomes in the sample space are the different sandwiches. Each sandwich is equally likely to be selected, so this is a uniform probability model. The event is A and B, \"the sandwich was made with chunky peanut butter and strawberry jelly\". Since this is a uniform probability model, count the number of outcomes in the event A and B and count the total number of outcomes. Then, divide them to compute the probability. Find the number of outcomes in the event A and B. A and B is the event \"the sandwich was made with chunky peanut butter and strawberry jelly\", so look at the table to see how many sandwiches were made with chunky peanut butter and strawberry jelly. The number of sandwiches that were made with chunky peanut butter and strawberry jelly is 6. Find the total number of outcomes. Add all the numbers in the table to find the total number of sandwiches. 5 + 6 + 5 + 4 = 20 Find P(A and B). Since all outcomes are equally likely, the probability of event A and B is the number of outcomes in event A and B divided by the total number of outcomes. P(A and B) = \\frac{# of outcomes in A and B}{total # of outcomes} = \\frac{6}{20} = \\frac{3}{10} The probability that a sandwich was made with chunky peanut butter and strawberry jelly is \\frac{3}{10}. The answer is 3/10"
+    },
+    {
+      "Q": "Table: [TITLE]: None\n | Tapping the ground | Raking the ground\n5-10 worms | 5 | 5\n11-20 worms | 2 | 3\nQuestion: Katy attended her town's annual Worm Charming Competition. Contestants are assigned to a square foot of land, where they have 30 minutes to \"charm\" worms to the surface of the dirt using a single technique. Katy observed contestants' charming techniques, and kept track of how many worms surfaced. What is the probability that a randomly selected contestant charmed 5-10 worms and tried tapping the ground? Simplify any fractions.",
+      "A": "Solution: Let A be the event \"the contestant charmed 5-10 worms\" and B be the event \"the contestant tried tapping the ground\". To find the probability that a contestant charmed 5-10 worms and tried tapping the ground, first identify the sample space and the event. The outcomes in the sample space are the different contestants. Each contestant is equally likely to be selected, so this is a uniform probability model. The event is A and B, \"the contestant charmed 5-10 worms and tried tapping the ground\". Since this is a uniform probability model, count the number of outcomes in the event A and B and count the total number of outcomes. Then, divide them to compute the probability. Find the number of outcomes in the event A and B. A and B is the event \"the contestant charmed 5-10 worms and tried tapping the ground\", so look at the table to see how many contestants charmed 5-10 worms and tried tapping the ground. The number of contestants who charmed 5-10 worms and tried tapping the ground is 5. Find the total number of outcomes. Add all the numbers in the table to find the total number of contestants. 5 + 2 + 5 + 3 = 15 Find P(A and B). Since all outcomes are equally likely, the probability of event A and B is the number of outcomes in event A and B divided by the total number of outcomes. P(A and B) = \\frac{# of outcomes in A and B}{total # of outcomes} = \\frac{5}{15} = \\frac{1}{3} The probability that a contestant charmed 5-10 worms and tried tapping the ground is \\frac{1}{3}. The answer is 1/3"
+    },
+    {
+      "Q": "Table: [TITLE]: None\n | Horizontally | Vertically\n50 photos | 2 | 4\n100 photos | 2 | 2\nQuestion: Jon just returned from a spring break volunteer trip. He is shopping for a photo album that will showcase his photos from the trip. The albums range in photo capacity and orientation. What is the probability that a randomly selected photo album holds exactly 50 photos and is oriented horizontally? Simplify any fractions.",
+      "A": "Solution: Let A be the event \"the photo album holds exactly 50 photos\" and B be the event \"the photo album is oriented horizontally\". To find the probability that a photo album holds exactly 50 photos and is oriented horizontally, first identify the sample space and the event. The outcomes in the sample space are the different photo albums. Each photo album is equally likely to be selected, so this is a uniform probability model. The event is A and B, \"the photo album holds exactly 50 photos and is oriented horizontally\". Since this is a uniform probability model, count the number of outcomes in the event A and B and count the total number of outcomes. Then, divide them to compute the probability. Find the number of outcomes in the event A and B. A and B is the event \"the photo album holds exactly 50 photos and is oriented horizontally\", so look at the table to see how many photo albums hold exactly 50 photos and are oriented horizontally. The number of photo albums that hold exactly 50 photos and are oriented horizontally is 2. Find the total number of outcomes. Add all the numbers in the table to find the total number of photo albums. 2 + 2 + 4 + 2 = 10 Find P(A and B). Since all outcomes are equally likely, the probability of event A and B is the number of outcomes in event A and B divided by the total number of outcomes. P(A and B) = \\frac{# of outcomes in A and B}{total # of outcomes} = \\frac{2}{10} = \\frac{1}{5} The probability that a photo album holds exactly 50 photos and is oriented horizontally is \\frac{1}{5}. The answer is 1/5"
+    },
+    {
+      "Q": "Table: [TITLE]: None\n | 4 strings | 5 strings\n25% off | 1 | 7\n50% off | 6 | 6\nQuestion: Ernest attended a music store's banjo sale. He counted the types of banjos and made note of their discounts. What is the probability that a randomly selected banjo is 50% off and has 5 strings? Simplify any fractions.",
+      "A": "Solution: Let A be the event \"the banjo is 50% off\" and B be the event \"the banjo has 5 strings\". To find the probability that a banjo is 50% off and has 5 strings, first identify the sample space and the event. The outcomes in the sample space are the different banjos. Each banjo is equally likely to be selected, so this is a uniform probability model. The event is A and B, \"the banjo is 50% off and has 5 strings\". Since this is a uniform probability model, count the number of outcomes in the event A and B and count the total number of outcomes. Then, divide them to compute the probability. Find the number of outcomes in the event A and B. A and B is the event \"the banjo is 50% off and has 5 strings\", so look at the table to see how many banjos are 50% off and have 5 strings. The number of banjos that are 50% off and have 5 strings is 6. Find the total number of outcomes. Add all the numbers in the table to find the total number of banjos. 1 + 6 + 7 + 6 = 20 Find P(A and B). Since all outcomes are equally likely, the probability of event A and B is the number of outcomes in event A and B divided by the total number of outcomes. P(A and B) = \\frac{# of outcomes in A and B}{total # of outcomes} = \\frac{6}{20} = \\frac{3}{10} The probability that a banjo is 50% off and has 5 strings is \\frac{3}{10}. The answer is 3/10"
+    }
+  ]
+}

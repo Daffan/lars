@@ -1,0 +1,222 @@
+{
+  "0": [
+    {
+      "Q": "Table: [TITLE]: Pages written\nDay | Number of pages\nTuesday | 8\nWednesday | 0\nThursday | 3\nFriday | 2\nSaturday | 9\nSunday | 9\nQuestion: An author kept a log of how many pages he wrote in the past 6 days. What is the range of the numbers?",
+      "A": "Solution: Read the numbers from the table. 8, 0, 3, 2, 9, 9 First, find the greatest number. The greatest number is 9. Next, find the least number. The least number is 0. Subtract the least number from the greatest number: 9 − 0 = 9 The range is 9. The answer is 9"
+    },
+    {
+      "Q": "Table: [TITLE]: Comic strips read\nDay | Number of comic strips\nSaturday | 1\nSunday | 16\nMonday | 10\nTuesday | 5\nWednesday | 3\nQuestion: Dean paid attention to how many comic strips he read in the past 5 days. What is the range of the numbers?",
+      "A": "Solution: Read the numbers from the table. 1, 16, 10, 5, 3 First, find the greatest number. The greatest number is 16. Next, find the least number. The least number is 1. Subtract the least number from the greatest number: 16 − 1 = 15 The range is 15. The answer is 15"
+    },
+    {
+      "Q": "Table: [TITLE]: Minutes spent rehearsing\nDay | Minutes\nWednesday | 96\nThursday | 90\nFriday | 87\nSaturday | 92\nSunday | 97\nMonday | 91\nTuesday | 94\nQuestion: Emmett recalled how many minutes he had spent at band rehearsal in the past 7 days. What is the range of the numbers?",
+      "A": "Solution: Read the numbers from the table. 96, 90, 87, 92, 97, 91, 94 First, find the greatest number. The greatest number is 97. Next, find the least number. The least number is 87. Subtract the least number from the greatest number: 97 − 87 = 10 The range is 10. The answer is 10"
+    },
+    {
+      "Q": "Table: [TITLE]: Hours worked\nDay | Hours\nTuesday | 7\nWednesday | 5\nThursday | 3\nFriday | 3\nSaturday | 1\nSunday | 2\nMonday | 0\nQuestion: Kelsey looked at her calendar to see how many hours she had worked in the past 7 days. What is the mean of the numbers?",
+      "A": "Solution: Read the numbers from the table. 7, 5, 3, 3, 1, 2, 0 First, count how many numbers are in the group. There are 7 numbers. Now add all the numbers together: 7 + 5 + 3 + 3 + 1 + 2 + 0 = 21 Now divide the sum by the number of numbers: 21 ÷ 7 = 3 The mean is 3. The answer is 3"
+    },
+    {
+      "Q": "Table: [TITLE]: Pages written\nDay | Number of pages\nSaturday | 95\nSunday | 96\nMonday | 93\nTuesday | 96\nWednesday | 99\nThursday | 95\nFriday | 95\nQuestion: An author kept a log of how many pages he wrote in the past 7 days. What is the median of the numbers?",
+      "A": "Solution: Read the numbers from the table. 95, 96, 93, 96, 99, 95, 95 First, arrange the numbers from least to greatest: 93, 95, 95, 95, 96, 96, 99 Now find the number in the middle. 93, 95, 95, 95, 96, 96, 99 The number in the middle is 95. The median is 95. The answer is 95"
+    }
+  ],
+  "1": [
+    {
+      "Q": "Table: [TITLE]: Balloons sold\nDay | Number of balloons\nWednesday | 568\nThursday | 586\nFriday | 558\nSaturday | 565\nQuestion: The manager of a party supply store researched how many balloons it sold in the past 4 days. On which day did the store sell the most balloons?\nOptions: (A) Wednesday (B) Thursday (C) Friday (D) Saturday",
+      "A": "Solution: Find the greatest number in the table. Remember to compare the numbers starting with the highest place value. The greatest number is 586. Now find the corresponding day. Thursday corresponds to 586. The answer is Thursday"
+    },
+    {
+      "Q": "Table: [TITLE]: Passengers per train\nStem | Leaf \n2 | 1, 4\n3 | 1, 3, 6\n4 | 2\n5 | \n6 | 6\n7 | 5\n8 | 0, 4\n9 | 0\nQuestion: The train conductor made sure to count the number of passengers on each train. How many trains had at least 58 passengers but fewer than 79 passengers? (Unit: trains)",
+      "A": "Solution: Find the row with stem 5. Count all the leaves greater than or equal to 8. Count all the leaves in the row with stem 6. In the row with stem 7, count all the leaves less than 9. You counted 2 leaves, which are blue in the stem-and-leaf plots above. 2 trains had at least 58 passengers but fewer than 79 passengers. The answer is 2"
+    },
+    {
+      "Q": "Table: [TITLE]: Pairs of shoes per store\nStem | Leaf \n1 | 9\n2 | \n3 | 0, 2\n4 | 7\n5 | \n6 | \n7 | \n8 | 4\n9 | 0\nQuestion: Julie counted the number of pairs of shoes for sale at each of the shoe stores in the mall. How many stores have exactly 47 pairs of shoes? (Unit: stores)",
+      "A": "Solution: For the number 47, the stem is 4, and the leaf is 7. Find the row where the stem is 4. In that row, count all the leaves equal to 7. You counted 1 leaf, which is blue in the stem-and-leaf plot above. 1 store has exactly 47 pairs of shoes. The answer is 1"
+    },
+    {
+      "Q": "Table: [TITLE]: People interviewed\nDay | Number of people\nMonday | 46\nTuesday | 42\nWednesday | 41\nThursday | 48\nQuestion: A reporter looked through his notebook to remember how many people he had interviewed in the past 4 days. On which day did the reporter interview the most people?\nOptions: (A) Monday (B) Tuesday (C) Wednesday (D) Thursday",
+      "A": "Solution: Find the greatest number in the table. Remember to compare the numbers starting with the highest place value. The greatest number is 48. Now find the corresponding day. Thursday corresponds to 48. The answer is Thursday"
+    },
+    {
+      "Q": "Table: [TITLE]: Ties per rack\nStem | Leaf \n1 | 3\n2 | \n3 | 1\n4 | \n5 | \n6 | 7, 9\n7 | 0, 3, 5\nQuestion: The employee at the department store counted the number of ties on each tie rack. What is the largest number of ties? (Unit: ties)",
+      "A": "Solution: Look at the last row of the stem-and-leaf plot. The last row has the highest stem. The stem for the last row is 7. Now find the highest leaf in the last row. The highest leaf is 5. The largest number of ties has a stem of 7 and a leaf of 5. Write the stem first, then the leaf: 75. The largest number of ties is 75 ties. The answer is 75"
+    }
+  ],
+  "2": [
+    {
+      "Q": "Table: [TITLE]: New cable customers\nDay | Number of new customers\nFriday | 2\nSaturday | 6\nSunday | 4\nMonday | 5\nTuesday | 5\nWednesday | 4\nQuestion: A cable company analyst paid attention to how many new customers it had each day. What is the range of the numbers?",
+      "A": "Solution: Read the numbers from the table. 2, 6, 4, 5, 5, 4 First, find the greatest number. The greatest number is 6. Next, find the least number. The least number is 2. Subtract the least number from the greatest number: 6 − 2 = 4 The range is 4. The answer is 4"
+    },
+    {
+      "Q": "Table: [TITLE]: Baseballs hit\nDay | Number of baseballs\nTuesday | 19\nWednesday | 18\nThursday | 27\nFriday | 25\nSaturday | 40\nSunday | 27\nQuestion: A baseball player paid attention to how many baseballs he hit in practice each day. What is the mean of the numbers?",
+      "A": "Solution: Read the numbers from the table. 19, 18, 27, 25, 40, 27 First, count how many numbers are in the group. There are 6 numbers. Now add all the numbers together: 19 + 18 + 27 + 25 + 40 + 27 = 156 Now divide the sum by the number of numbers: 156 ÷ 6 = 26 The mean is 26. The answer is 26"
+    },
+    {
+      "Q": "Table: [TITLE]: New cable customers\nDay | Number of new customers\nSunday | 5\nMonday | 2\nTuesday | 9\nWednesday | 2\nThursday | 4\nFriday | 9\nSaturday | 10\nQuestion: A cable company analyst paid attention to how many new customers it had each day. What is the median of the numbers?",
+      "A": "Solution: Read the numbers from the table. 5, 2, 9, 2, 4, 9, 10 First, arrange the numbers from least to greatest: 2, 2, 4, 5, 9, 9, 10 Now find the number in the middle. 2, 2, 4, 5, 9, 9, 10 The number in the middle is 5. The median is 5. The answer is 5"
+    },
+    {
+      "Q": "Table: [TITLE]: Goals made\nDay | Number of goals\nSaturday | 3\nSunday | 8\nMonday | 1\nTuesday | 8\nWednesday | 6\nThursday | 6\nFriday | 2\nQuestion: Brianna recalled how many goals she had made in soccer practice each day. What is the median of the numbers?",
+      "A": "Solution: Read the numbers from the table. 3, 8, 1, 8, 6, 6, 2 First, arrange the numbers from least to greatest: 1, 2, 3, 6, 6, 8, 8 Now find the number in the middle. 1, 2, 3, 6, 6, 8, 8 The number in the middle is 6. The median is 6. The answer is 6"
+    },
+    {
+      "Q": "Table: [TITLE]: Goals made\nDay | Number of goals\nSaturday | 1\nSunday | 6\nMonday | 5\nTuesday | 1\nWednesday | 2\nThursday | 3\nFriday | 3\nQuestion: Henry recalled how many goals he had made in soccer practice each day. What is the median of the numbers?",
+      "A": "Solution: Read the numbers from the table. 1, 6, 5, 1, 2, 3, 3 First, arrange the numbers from least to greatest: 1, 1, 2, 3, 3, 5, 6 Now find the number in the middle. 1, 1, 2, 3, 3, 5, 6 The number in the middle is 3. The median is 3. The answer is 3"
+    }
+  ],
+  "3": [
+    {
+      "Q": "Table: [TITLE]: None\nx | y\n9 | 7\n10 | 5\n11 | 3\nQuestion: The table shows a function. Is the function linear or nonlinear?\nOptions: (A) linear (B) nonlinear",
+      "A": "Solution: To determine whether the function is linear or nonlinear, see whether it has a constant rate of change. Pick the points in any two rows of the table and calculate the rate of change between them. The first two rows are a good place to start. Call the values in the first row x1 and y1. Call the values in the second row x2 and y2. Rate of change = \\frac{y2 - y1}{x2 - x1} = \\frac{5 - 7}{10 - 9} = \\frac{-2}{1} = -2 Now pick any other two rows and calculate the rate of change between them. Call the values in the first row x1 and y1. Call the values in the third row x2 and y2. Rate of change = \\frac{y2 - y1}{x2 - x1} = \\frac{3 - 7}{11 - 9} = \\frac{-4}{2} = -2 The two rates of change are the same. 2. This means the rate of change is the same for each pair of points. So, the function has a constant rate of change. The function is linear. The answer is linear"
+    },
+    {
+      "Q": "Table: [TITLE]: None\nx | y\n6 | 18\n7 | 15\n8 | 11\nQuestion: The table shows a function. Is the function linear or nonlinear?\nOptions: (A) linear (B) nonlinear",
+      "A": "Solution: To determine whether the function is linear or nonlinear, see whether it has a constant rate of change. Pick the points in any two rows of the table and calculate the rate of change between them. The first two rows are a good place to start. Call the values in the first row x1 and y1. Call the values in the second row x2 and y2. Rate of change = \\frac{y2 - y1}{x2 - x1} = \\frac{15 - 18}{7 - 6} = \\frac{-3}{1} = -3 Now pick any other two rows and calculate the rate of change between them. Call the values in the second row x1 and y1. Call the values in the third row x2 and y2. Rate of change = \\frac{y2 - y1}{x2 - x1} = \\frac{11 - 15}{8 - 7} = \\frac{-4}{1} = -4 The rate of change is not the same for each pair of points. So, the function does not have a constant rate of change. The function is nonlinear. The answer is nonlinear"
+    },
+    {
+      "Q": "Table: [TITLE]: None\nx | y\n15 | 7\n16 | 9\n17 | 11\nQuestion: The table shows a function. Is the function linear or nonlinear?\nOptions: (A) linear (B) nonlinear",
+      "A": "Solution: To determine whether the function is linear or nonlinear, see whether it has a constant rate of change. Pick the points in any two rows of the table and calculate the rate of change between them. The first two rows are a good place to start. Call the values in the first row x1 and y1. Call the values in the second row x2 and y2. Rate of change = \\frac{y2 - y1}{x2 - x1} = \\frac{9 - 7}{16 - 15} = \\frac{2}{1} = 2 Now pick any other two rows and calculate the rate of change between them. Call the values in the second row x1 and y1. Call the values in the third row x2 and y2. Rate of change = \\frac{y2 - y1}{x2 - x1} = \\frac{11 - 9}{17 - 16} = \\frac{2}{1} = 2 The two rates of change are the same. If you checked the rate of change between rows 1 and 3, you would find that it is also 2. This means the rate of change is the same for each pair of points. So, the function has a constant rate of change. The function is linear. The answer is linear"
+    },
+    {
+      "Q": "Table: [TITLE]: Hammers sold\nDay | Number of hammers\nTuesday | 8\nWednesday | 6\nThursday | 9\nFriday | 9\nSaturday | 10\nSunday | 2\nMonday | 9\nQuestion: A hardware store monitored how many hammers it sold in the past 7 days. What is the median of the numbers?",
+      "A": "Solution: Read the numbers from the table. 8, 6, 9, 9, 10, 2, 9 First, arrange the numbers from least to greatest: 2, 6, 8, 9, 9, 9, 10 Now find the number in the middle. 2, 6, 8, 9, 9, 9, 10 The number in the middle is 9. The median is 9. The answer is 9"
+    },
+    {
+      "Q": "Table: [TITLE]: None\nx | y\n1 | 4\n2 | 7\n3 | 10\nQuestion: The table shows a function. Is the function linear or nonlinear?\nOptions: (A) linear (B) nonlinear",
+      "A": "Solution: To determine whether the function is linear or nonlinear, see whether it has a constant rate of change. Pick the points in any two rows of the table and calculate the rate of change between them. The first two rows are a good place to start. Call the values in the first row x1 and y1. Call the values in the second row x2 and y2. Rate of change = \\frac{y2 - y1}{x2 - x1} = \\frac{7 - 4}{2 - 1} = \\frac{3}{1} = 3 Now pick any other two rows and calculate the rate of change between them. Call the values in the second row x1 and y1. Call the values in the third row x2 and y2. Rate of change = \\frac{y2 - y1}{x2 - x1} = \\frac{10 - 7}{3 - 2} = \\frac{3}{1} = 3 The two rates of change are the same. If you checked the rate of change between rows 1 and 3, you would find that it is also 3. This means the rate of change is the same for each pair of points. So, the function has a constant rate of change. The function is linear. The answer is linear"
+    }
+  ],
+  "4": [
+    {
+      "Q": "Table: [TITLE]: Grocery stores in each town\nTown | Number of stores\nSpringfield | 4\nRiverside | 4\nColumbia | 7\nChesterton | 2\nSalem | 4\nWatertown | 7\nMarion | 7\nRichmond | 7\nQuestion: A newspaper researched how many grocery stores there are in each town. What is the mode of the numbers?",
+      "A": "Solution: Read the numbers from the table. 4, 4, 7, 2, 4, 7, 7, 7 First, arrange the numbers from least to greatest: 2, 4, 4, 4, 7, 7, 7, 7 Now count how many times each number appears. 2 appears 1 time. 4 appears 3 times. 7 appears 4 times. The number that appears most often is 7. The mode is 7. The answer is 7"
+    },
+    {
+      "Q": "Table: [TITLE]: Swings\nSchool | Number of swings\nValley Elementary | 9\nJefferson Elementary | 3\nShoreline Elementary | 2\nNewberry Elementary | 2\nLincoln Elementary | 3\nCanyon Elementary | 7\nHillside Elementary | 5\nRoseville Elementary | 3\nQuestion: The school district compared how many swings each elementary school has. What is the range of the numbers?",
+      "A": "Solution: Read the numbers from the table. 9, 3, 2, 2, 3, 7, 5, 3 First, find the greatest number. The greatest number is 9. Next, find the least number. The least number is 2. Subtract the least number from the greatest number: 9 − 2 = 7 The range is 7. The answer is 7"
+    },
+    {
+      "Q": "Table: [TITLE]: Grocery stores in each town\nTown | Number of stores\nRichmond | 6\nAshland | 7\nColumbia | 7\nSalem | 7\nMarion | 6\nQuestion: A newspaper researched how many grocery stores there are in each town. What is the mode of the numbers?",
+      "A": "Solution: Read the numbers from the table. 6, 7, 7, 7, 6 First, arrange the numbers from least to greatest: 6, 6, 7, 7, 7 Now count how many times each number appears. 6 appears 2 times. 7 appears 3 times. The number that appears most often is 7. The mode is 7. The answer is 7"
+    },
+    {
+      "Q": "Table: [TITLE]: Soccer fields\nPark | Number of soccer fields\nJuniper Park | 2\nLighthouse Park | 7\nMoon Park | 7\nWindy Hill Park | 7\nCrane Park | 7\nQuestion: The parks department compared how many soccer fields there are at each park. What is the mean of the numbers?",
+      "A": "Solution: Read the numbers from the table. 2, 7, 7, 7, 7 First, count how many numbers are in the group. There are 5 numbers. Now add all the numbers together: 2 + 7 + 7 + 7 + 7 = 30 Now divide the sum by the number of numbers: 30 ÷ 5 = 6 The mean is 6. The answer is 6"
+    },
+    {
+      "Q": "Table: [TITLE]: Fire hydrants\nStreet | Number of hydrants\nMaple Street | 5\nOak Street | 5\nLemon Street | 1\nCedar Street | 6\nFir Street | 8\nQuestion: The city recorded how many fire hydrants there are on each street. What is the range of the numbers?",
+      "A": "Solution: Read the numbers from the table. 5, 5, 1, 6, 8 First, find the greatest number. The greatest number is 8. Next, find the least number. The least number is 1. Subtract the least number from the greatest number: 8 − 1 = 7 The range is 7. The answer is 7"
+    }
+  ],
+  "5": [
+    {
+      "Q": "Table: [TITLE]: None\nNumber of trees | Number of sparrows\n1 | 2\n2 | 4\n3 | 6\n4 | ?\nQuestion: Each tree has 2 sparrows. How many sparrows are in 4 trees?",
+      "A": "Solution: Count by twos. Use the chart: there are 8 sparrows in 4 trees. The answer is 8"
+    },
+    {
+      "Q": "Table: [TITLE]: None\nNumber of fields | Number of pigs\n1 | 5\n2 | 10\n3 | 15\n4 | ?\nQuestion: Each field has 5 pigs. How many pigs are in 4 fields?",
+      "A": "Solution: Count by fives. Use the chart: there are 20 pigs in 4 fields. The answer is 20"
+    },
+    {
+      "Q": "Table: [TITLE]: None\nNumber of baskets | Number of daisies\n1 | 10\n2 | 20\n3 | ?\nQuestion: Each basket has 10 daisies. How many daisies are in 3 baskets?",
+      "A": "Solution: Count by tens. Use the chart: there are 30 daisies in 3 baskets. The answer is 30"
+    },
+    {
+      "Q": "Table: [TITLE]: None\nNumber of bags | Number of wooden beads\n1 | 5\n2 | 10\n3 | ?\nQuestion: Each bag has 5 wooden beads. How many wooden beads are in 3 bags?",
+      "A": "Solution: Count by fives. Use the chart: there are 15 wooden beads in 3 bags. The answer is 15"
+    },
+    {
+      "Q": "Table: [TITLE]: None\nNumber of fields | Number of donkeys\n1 | 2\n2 | 4\n3 | ?\nQuestion: Each field has 2 donkeys. How many donkeys are in 3 fields?",
+      "A": "Solution: Count by twos. Use the chart: there are 6 donkeys in 3 fields. The answer is 6"
+    }
+  ],
+  "6": [
+    {
+      "Q": "Table: [TITLE]: None\nwaffle maker | $33.00\nblender | $11.00\ncomputer mouse | $19.00\ntoaster | $44.00\nQuestion: How much money does Tammy need to buy 3 computer mice? (Unit: $)",
+      "A": "Solution: Find the total cost of 3 computer mice by multiplying 3 times the price of a computer mouse. $19.00 × 3 = $57.00 Tammy needs $57.00. The answer is 57"
+    },
+    {
+      "Q": "Table: [TITLE]: None\nbadminton set | $13.00\nbicycle | $78.00\nbasketball jersey | $15.00\nbaseball bat | $19.00\nQuestion: How much money does Edward need to buy a bicycle and a badminton set? (Unit: $)",
+      "A": "Solution: Add the price of a bicycle and the price of a badminton set: $78.00 + $13.00 = $91.00 Edward needs $91.00. The answer is 91"
+    },
+    {
+      "Q": "Table: [TITLE]: None\nbag of cat treats | $4.45\ncan of cat food | $2.53\nhamster wheel | $7.50\ndog collar | $1.37\nQuestion: How much money does Leslie need to buy a hamster wheel and a dog collar? (Unit: $)",
+      "A": "Solution: Add the price of a hamster wheel and the price of a dog collar: $7.50 + $1.37 = $8.87 Leslie needs $8.87. The answer is 8.87"
+    },
+    {
+      "Q": "Table: [TITLE]: None\ntoaster | $37\ncomputer keyboard | $21\nblender | $24\ncell phone | $45\nCD player | $29\ncamera | $45\nQuestion: How much money does Adriana need to buy a computer keyboard and a CD player? (Unit: $)",
+      "A": "Solution: Add the price of a computer keyboard and the price of a CD player: $21 + $29 = $50 Adriana needs $50. The answer is 50"
+    },
+    {
+      "Q": "Table: [TITLE]: None\nfish bowl | $5.00\ndog bowl | $2.00\nbag of cat treats | $4.00\nbox of dog biscuits | $3.00\nQuestion: How much money does Ronald need to buy a box of dog biscuits and a dog bowl? (Unit: $)",
+      "A": "Solution: Add the price of a box of dog biscuits and the price of a dog bowl: $3.00 + $2.00 = $5.00 Ronald needs $5.00. The answer is 5"
+    }
+  ],
+  "7": [
+    {
+      "Q": "Table: [TITLE]: None\nhair tie | $0.77\ncomb | $0.90\nsewing kit | $0.93\nnail file | $0.88\nbox of breath mints | $0.75\nQuestion: How much more does a sewing kit cost than a hair tie? (Unit: $)",
+      "A": "Solution: Subtract the price of a hair tie from the price of a sewing kit. $0.93 - $0.77 = $0.16 A sewing kit costs $0.16 more than a hair tie. The answer is 0.16"
+    },
+    {
+      "Q": "Table: [TITLE]: None\nmacaroni salad | $6 per lb\ngreen salad | $5 per lb\nfruit salad | $4 per lb\ntuna salad | $5 per lb\nQuestion: Trent went to the store and bought 0.4 pounds of green salad. How much did he spend? (Unit: $)",
+      "A": "Solution: Find the cost of the green salad. Multiply the price per pound by the number of pounds. $5 × 0.4 = $2 He spent $2. The answer is 2"
+    },
+    {
+      "Q": "Table: [TITLE]: None\nwheelbarrow | $71.00\nladder | $38.00\nmop | $17.00\nlawn sprinkler | $19.00\nlawn mower | $76.00\nQuestion: How much money does Roy need to buy a wheelbarrow and a ladder? (Unit: $)",
+      "A": "Solution: Add the price of a wheelbarrow and the price of a ladder: $71.00 + $38.00 = $109.00 Roy needs $109.00. The answer is 109"
+    },
+    {
+      "Q": "Table: [TITLE]: None\nchocolates | $1 per pound\ngummy bears | $3 per pound\nlicorice | $4 per pound\nlemon sours | $1 per pound\nQuestion: How much would it cost to buy 5 pounds of licorice? (Unit: $)",
+      "A": "Solution: Find the cost of the licorice. Multiply the price per pound by the number of pounds. $4 × 5 = $20 It would cost $20. The answer is 20"
+    },
+    {
+      "Q": "Table: [TITLE]: None\nred kazoo | $0.06\nblue plastic block | $0.04\ncolorful pinwheel | $0.04\ngreen marble | $0.03\nQuestion: How much more does a blue plastic block cost than a green marble? (Unit: $)",
+      "A": "Solution: Subtract the price of a green marble from the price of a blue plastic block. $0.04 - $0.03 = $0.01 A blue plastic block costs $0.01 more than a green marble. The answer is 0.01"
+    }
+  ],
+  "8": [
+    {
+      "Q": "Table: [TITLE]: None\ngreen pipe cleaner | $0.23\nfake yellow daisy | $0.30\nsilver bow | $0.36\nsewing needle | $0.25\nbig blue button | $0.14\nred ribbon | $0.36\nQuestion: How much money does Ted need to buy a fake yellow daisy, a silver bow, and a green pipe cleaner? (Unit: $)",
+      "A": "Solution: Find the total cost of a fake yellow daisy, a silver bow, and a green pipe cleaner. $0.30 + $0.36 + $0.23 = $0.89 Ted needs $0.89. The answer is 0.89"
+    },
+    {
+      "Q": "Table: [TITLE]: None\npink sweater | $6.69\npair of brown pants | $9.66\nplaid scarf | $2.45\npair of sandals | $7.69\nwhite polo shirt | $4.86\nQuestion: How much money does Heather need to buy a pair of brown pants and a plaid scarf? (Unit: $)",
+      "A": "Solution: Add the price of a pair of brown pants and the price of a plaid scarf: $9.66 + $2.45 = $12.11 Heather needs $12.11. The answer is 12.11"
+    },
+    {
+      "Q": "Table: [TITLE]: None\ncan of green beans | $1.30\nbag of frozen peas | $1.26\ncan of soup | $2.22\njar of pickles | $2.12\njar of cherries | $4.02\ncan of mushrooms | $3.41\nQuestion: How much money does Mark need to buy a can of mushrooms and a jar of cherries? (Unit: $)",
+      "A": "Solution: Add the price of a can of mushrooms and the price of a jar of cherries: $3.41 + $4.02 = $7.43 Mark needs $7.43. The answer is 7.43"
+    },
+    {
+      "Q": "Table: [TITLE]: None\nbottle of hot sauce | $0.81\njar of salsa | $0.76\nbottle of ketchup | $0.75\nbottle of vinegar | $0.46\nQuestion: How much more does a bottle of hot sauce cost than a bottle of vinegar? (Unit: $)",
+      "A": "Solution: Subtract the price of a bottle of vinegar from the price of a bottle of hot sauce. $0.81 - $0.46 = $0.35 A bottle of hot sauce costs $0.35 more than a bottle of vinegar. The answer is 0.35"
+    },
+    {
+      "Q": "Table: [TITLE]: None\nred pepper | $0.84\nlemon | $0.15\norange | $0.68\npeach | $0.54\nyellow pepper | $0.73\napple | $0.60\nQuestion: How much money does Steve need to buy a yellow pepper, a lemon, and a red pepper? (Unit: $)",
+      "A": "Solution: Find the total cost of a yellow pepper, a lemon, and a red pepper. $0.73 + $0.15 + $0.84 = $1.72 Steve needs $1.72. The answer is 1.72"
+    }
+  ],
+  "9": [
+    {
+      "Q": "Table: [TITLE]: Time Luca spent on homework\nDay | Minutes\nSunday | 40\nMonday | 37\nTuesday | 33\nWednesday | 32\nThursday | 37\nQuestion: Luca kept track of how long it took to finish his homework each day. According to the table, what was the rate of change between Tuesday and Wednesday? (Unit: minutes per day)",
+      "A": "Solution: Plug the numbers into the formula for rate of change and simplify. Rate of change = \\frac{change in value}{change in time} = \\frac{32 minutes - 33 minutes}{1 day} = \\frac{-1 minutes}{1 day} = -1 minutes per day The rate of change between Tuesday and Wednesday was - 1 minutes per day. The answer is -1"
+    },
+    {
+      "Q": "Table: [TITLE]: Glasses of water\nDay | Number of glasses\nWednesday | 7\nThursday | 6\nFriday | 2\nSaturday | 4\nSunday | 8\nMonday | 4\nTuesday | 5\nQuestion: Janelle wrote down how many glasses of water she drank during the past 7 days. What is the median of the numbers?",
+      "A": "Solution: Read the numbers from the table. 7, 6, 2, 4, 8, 4, 5 First, arrange the numbers from least to greatest: 2, 4, 4, 5, 6, 7, 8 Now find the number in the middle. 2, 4, 4, 5, 6, 7, 8 The number in the middle is 5. The median is 5. The answer is 5"
+    },
+    {
+      "Q": "Table: [TITLE]: Donations\nPerson | Clean water | Job training\nDonald | $4 | $8\nKirk | $18 | $11\nIsaac | $18 | $4\nManuel | $8 | $15\nKylie | $4 | $11\nQuestion: A philanthropic organization compared the amounts of money that its members donated to certain causes. How much more money did Manuel donate to job training than Kirk? (Unit: $)",
+      "A": "Solution: Find the Job training column. Find the numbers in this column for Manuel and Kirk. Manuel: $15.00 Kirk: $11.00 Now subtract: $15.00 − $11.00 = $4.00 Manuel donated $4 more to job training than Kirk. The answer is 4"
+    },
+    {
+      "Q": "Table: [TITLE]: Ages of cousins\nName | Age (years)\nJennifer | 3\nCamilla | 5\nRon | 5\nSandra | 6\nKen | 10\nQuestion: A girl compared the ages of her cousins. What is the median of the numbers?",
+      "A": "Solution: Read the numbers from the table. 3, 5, 5, 6, 10 First, arrange the numbers from least to greatest: 3, 5, 5, 6, 10 Now find the number in the middle. 3, 5, 5, 6, 10 The number in the middle is 5. The median is 5. The answer is 5"
+    },
+    {
+      "Q": "Table: [TITLE]: Pies baked\nDay | Number of pies\nSunday | 7\nMonday | 7\nTuesday | 8\nWednesday | 5\nThursday | 5\nFriday | 7\nSaturday | 8\nQuestion: A baker wrote down how many pies she made in the past 7 days. What is the mode of the numbers?",
+      "A": "Solution: Read the numbers from the table. 7, 7, 8, 5, 5, 7, 8 First, arrange the numbers from least to greatest: 5, 5, 7, 7, 7, 8, 8 Now count how many times each number appears. 5 appears 2 times. 7 appears 3 times. 8 appears 2 times. The number that appears most often is 7. The mode is 7. The answer is 7"
+    }
+  ]
+}

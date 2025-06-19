@@ -1,0 +1,43 @@
+{
+  "seed": 4891,
+  "task": "tabmwp",
+  "split": "train_cand1k",
+  "encoder": "microsoft/deberta-v2-xlarge",
+  "prompt_format": "CQ-S",
+  "load": "results/train_skill_discovery.py/example-tabmwp/model.pt",
+  "batch_size": 256,
+  "num_epoch": 400,
+  "lr": 0.0001,
+  "hidden_dim": 256,
+  "hidden_layer": 2,
+  "latent_dim": 128,
+  "qs_as_whole": true,
+  "reconstruct_qs": true,
+  "kl_ratio": 1.0,
+  "clip": 10.0,
+  "test": true,
+  "test_split": "train_cand1k",
+  "num_clusters": 10,
+  "plot_model": "tsne",
+  "NMI_GT_QS_skill": {
+    "Q_skill": 0.7199283095563154,
+    "pi_skill": 0.7386271361830719,
+    "Q": 0.2655387350947445,
+    "QS_skill": 1.0,
+    "QS": 0.6648667890601094
+  },
+  "NMI_GT_QS": {
+    "Q_skill": 0.6169106032724772,
+    "pi_skill": 0.6287975356526929,
+    "Q": 0.28982553686902585,
+    "QS_skill": 0.6648667890601095,
+    "QS": 1.0
+  },
+  "NMI_GT_S": {
+    "Q_skill": 0.21942296241265202,
+    "pi_skill": 0.21777058467464577,
+    "Q": 0.2385189154989469,
+    "QS_skill": 0.18552647004773243,
+    "QS": 0.2001773050201599
+  }
+}

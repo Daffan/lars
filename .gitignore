@@ -1,0 +1,10 @@
+results
+assets
+
+.vscode
+.DS_Store
+
+*.pyc
+*~
+*.swp
+checkpoints

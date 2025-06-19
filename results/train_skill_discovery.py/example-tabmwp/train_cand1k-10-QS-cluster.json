@@ -1,0 +1,222 @@
+{
+  "0": [
+    {
+      "Q": "Table: [TITLE]: None\ntrampoline | $66.95\nmodel railroad set | $80.34\ntoy guitar | $24.29\nteddy bear | $18.96\nQuestion: Franco has $88.50. Does he have enough to buy a teddy bear and a trampoline?\nOptions: (A) yes (B) no",
+      "A": "Solution: Add the price of a teddy bear and the price of a trampoline: $18.96 + $66.95 = $85.91 $85.91 is less than $88.50. Franco does have enough money. The answer is yes"
+    },
+    {
+      "Q": "Table: [TITLE]: None\nairplane calendar | $2\nmap of Africa | $3\nmap of Canada | $6\nmap of the United States | $2\nmap of the world | $8\nQuestion: How much money does Eddie need to buy a map of Canada and a map of the world? (Unit: $)",
+      "A": "Solution: Add the price of a map of Canada and the price of a map of the world: $6 + $8 = $14 Eddie needs $14. The answer is 14"
+    },
+    {
+      "Q": "Table: [TITLE]: None\nswimsuit | $8.65\nbike horn | $2.86\nbasketball | $9.45\nbaseball glove | $9.58\nQuestion: Ava has $12.00. Does she have enough to buy a bike horn and a swimsuit?\nOptions: (A) yes (B) no",
+      "A": "Solution: Add the price of a bike horn and the price of a swimsuit: $2.86 + $8.65 = $11.51 $11.51 is less than $12.00. Ava does have enough money. The answer is yes"
+    },
+    {
+      "Q": "Table: [TITLE]: None\nbucket | $4.63\ngarden hose | $7.59\nmeasuring tape | $4.71\nwatering can | $7.81\nmop | $7.18\nhammer | $9.86\nQuestion: Tommy has $12.50. Does he have enough to buy a garden hose and a measuring tape?\nOptions: (A) yes (B) no",
+      "A": "Solution: Add the price of a garden hose and the price of a measuring tape: $7.59 + $4.71 = $12.30 $12.30 is less than $12.50. Tommy does have enough money. The answer is yes"
+    },
+    {
+      "Q": "Table: [TITLE]: None\nfish bowl | $5.00\ndog bowl | $2.00\nbag of cat treats | $4.00\nbox of dog biscuits | $3.00\nQuestion: How much money does Ronald need to buy a box of dog biscuits and a dog bowl? (Unit: $)",
+      "A": "Solution: Add the price of a box of dog biscuits and the price of a dog bowl: $3.00 + $2.00 = $5.00 Ronald needs $5.00. The answer is 5"
+    }
+  ],
+  "1": [
+    {
+      "Q": "Table: [TITLE]: Soccer practice\nMonth | Number of practices\nApril | 21\nMay | 23\nJune | 26\nJuly | 22\nAugust | 29\nSeptember | 18\nOctober | 24\nQuestion: Eve looked over her calendar to see how many times she had soccer practice each month. What is the median of the numbers?",
+      "A": "Solution: Read the numbers from the table. 21, 23, 26, 22, 29, 18, 24 First, arrange the numbers from least to greatest: 18, 21, 22, 23, 24, 26, 29 Now find the number in the middle. 18, 21, 22, 23, 24, 26, 29 The number in the middle is 23. The median is 23. The answer is 23"
+    },
+    {
+      "Q": "Table: [TITLE]: Hours of babysitting\nMonth | Hours\nNovember | 4\nDecember | 4\nJanuary | 8\nFebruary | 4\nMarch | 8\nApril | 5\nMay | 5\nJune | 4\nQuestion: Clarence looked at his calendar to figure out how much time he spent babysitting each month. What is the mode of the numbers?",
+      "A": "Solution: Read the numbers from the table. 4, 4, 8, 4, 8, 5, 5, 4 First, arrange the numbers from least to greatest: 4, 4, 4, 4, 5, 5, 8, 8 Now count how many times each number appears. 4 appears 4 times. 5 appears 2 times. 8 appears 2 times. The number that appears most often is 4. The mode is 4. The answer is 4"
+    },
+    {
+      "Q": "Table: [TITLE]: Ages of cousins\nName | Age (years)\nErik | 19\nColette | 14\nWarren | 14\nDave | 20\nReid | 19\nAlvin | 9\nSam | 20\nJanelle | 14\nQuestion: A girl compared the ages of her cousins. What is the range of the numbers?",
+      "A": "Solution: Read the numbers from the table. 19, 14, 14, 20, 19, 9, 20, 14 First, find the greatest number. The greatest number is 20. Next, find the least number. The least number is 9. Subtract the least number from the greatest number: 20 − 9 = 11 The range is 11. The answer is 11"
+    },
+    {
+      "Q": "Table: [TITLE]: Lawn mowers sold\nDay | Number of lawn mowers\nSaturday | 1\nSunday | 5\nMonday | 5\nTuesday | 3\nWednesday | 3\nQuestion: A garden supply store kept track of how many lawn mowers it sold in the past 5 days. What is the range of the numbers?",
+      "A": "Solution: Read the numbers from the table. 1, 5, 5, 3, 3 First, find the greatest number. The greatest number is 5. Next, find the least number. The least number is 1. Subtract the least number from the greatest number: 5 − 1 = 4 The range is 4. The answer is 4"
+    },
+    {
+      "Q": "Table: [TITLE]: Baseballs hit\nDay | Number of baseballs\nTuesday | 19\nWednesday | 18\nThursday | 27\nFriday | 25\nSaturday | 40\nSunday | 27\nQuestion: A baseball player paid attention to how many baseballs he hit in practice each day. What is the mean of the numbers?",
+      "A": "Solution: Read the numbers from the table. 19, 18, 27, 25, 40, 27 First, count how many numbers are in the group. There are 6 numbers. Now add all the numbers together: 19 + 18 + 27 + 25 + 40 + 27 = 156 Now divide the sum by the number of numbers: 156 ÷ 6 = 26 The mean is 26. The answer is 26"
+    }
+  ],
+  "2": [
+    {
+      "Q": "Table: [TITLE]: Field day schedule\nEvent | Begin | End\nrelay race | 9:50 A.M. | 10:30 A.M.\nobstacle course | 10:45 A.M. | 11:10 A.M.\nballoon stomp | 11:20 A.M. | 12:00 P.M.\npotato sack race | 12:10 P.M. | 12:30 P.M.\nwater balloon toss | 12:45 P.M. | 1:00 P.M.\nthree-legged race | 1:05 P.M. | 1:45 P.M.\nbean bag toss | 2:00 P.M. | 2:40 P.M.\negg relay | 2:45 P.M. | 3:45 P.M.\nQuestion: Look at the following schedule. When does the egg relay end?\nOptions: (A) 1:05 P.M. (B) 3:45 P.M. (C) 2:45 P.M. (D) 10:45 A.M.",
+      "A": "Solution: Find the egg relay on the schedule. Find the end time for the egg relay. egg relay: 3:45 P. M. The answer is 3:45 P.M."
+    },
+    {
+      "Q": "Table: [TITLE]: Class schedule\nSubject | Begin | End\nMath | 8:15 A.M. | 8:50 A.M.\nChemistry | 9:00 A.M. | 9:30 A.M.\nEnglish | 9:40 A.M. | 10:30 A.M.\nArt | 10:35 A.M. | 11:55 A.M.\nBiology | 12:00 P.M. | 12:45 P.M.\nMusic | 12:55 P.M. | 1:30 P.M.\nGym | 1:35 P.M. | 2:55 P.M.\nAstronomy | 3:05 P.M. | 4:20 P.M.\nQuestion: Look at the following schedule. When does Music class begin?\nOptions: (A) 12:55 P.M. (B) 9:00 A.M. (C) 3:05 P.M. (D) 12:00 P.M.",
+      "A": "Solution: Find Music class on the schedule. Find the beginning time for Music class. Music: 12:55 P. M. The answer is 12:55 P.M."
+    },
+    {
+      "Q": "Table: [TITLE]: School picnic schedule\nEvent | Begin | End\nlunch | 10:40 A.M. | 11:25 A.M.\nkickball game | 11:40 A.M. | 12:15 P.M.\nsoftball game | 12:10 P.M. | 12:45 P.M.\nsoccer game | 1:00 P.M. | 1:25 P.M.\nobstacle course | 1:25 P.M. | 1:55 P.M.\ndance competition | 1:40 P.M. | 2:10 P.M.\npie-eating contest | 2:20 P.M. | 3:10 P.M.\nswimming competition | 2:50 P.M. | 3:40 P.M.\nQuestion: Look at the following schedule. Which event begins at 1.25 P.M.?\nOptions: (A) obstacle course (B) pie-eating contest (C) lunch (D) kickball game",
+      "A": "Solution: Find 1:25 P. M. on the schedule. The obstacle course begins at 1:25 P. M. The answer is obstacle course"
+    },
+    {
+      "Q": "Table: [TITLE]: Field day schedule\nEvent | Begin | End\nballoon stomp | 11:45 A.M. | 12:15 P.M.\nobstacle course | 12:30 P.M. | 1:00 P.M.\negg relay | 1:05 P.M. | 1:25 P.M.\nhula hoop contest | 1:30 P.M. | 1:50 P.M.\nrelay race | 2:00 P.M. | 2:25 P.M.\nhurdles | 2:30 P.M. | 3:25 P.M.\npotato sack race | 3:35 P.M. | 4:30 P.M.\nQuestion: Look at the following schedule. Which event ends at 1.00 P.M.?\nOptions: (A) obstacle course (B) potato sack race (C) egg relay (D) hurdles",
+      "A": "Solution: Find 1:00 P. M. on the schedule. The obstacle course ends at 1:00 P. M. The answer is obstacle course"
+    },
+    {
+      "Q": "Table: [TITLE]: Gym teacher's schedule\nClass | Begin | End\nAerobics | 8:50 A.M. | 9:40 A.M.\nTennis | 9:55 A.M. | 10:45 A.M.\nRunning | 10:55 A.M. | 12:10 P.M.\nSoccer | 12:15 P.M. | 1:05 P.M.\nBadminton | 1:10 P.M. | 2:40 P.M.\nSwimming | 2:50 P.M. | 4:05 P.M.\nQuestion: Look at the following schedule. When does Aerobics class end?\nOptions: (A) 9:55 A.M. (B) 8:50 A.M. (C) 4:05 P.M. (D) 9:40 A.M.",
+      "A": "Solution: Find Aerobics class on the schedule. Find the end time for Aerobics class. Aerobics: 9:40 A. M. The answer is 9:40 A.M."
+    }
+  ],
+  "3": [
+    {
+      "Q": "Table: [TITLE]: None\nboysenberry jam | $8/pound\napple butter | $4/pound\nraspberry jam | $7/pound\nmarmalade | $3/pound\nQuestion: Gary wants to buy 1/2 of a pound of boysenberry jam. How much will he spend? (Unit: $)",
+      "A": "Solution: Find the cost of the boysenberry jam. Multiply the price per pound by the number of pounds. $8 × \\frac{1}{2} = $8 × 0.5 = $4 He will spend $4. The answer is 4"
+    },
+    {
+      "Q": "Table: [TITLE]: None\nmacaroni salad | $6 per lb\ngreen salad | $5 per lb\nfruit salad | $4 per lb\ntuna salad | $5 per lb\nQuestion: Trent went to the store and bought 0.4 pounds of green salad. How much did he spend? (Unit: $)",
+      "A": "Solution: Find the cost of the green salad. Multiply the price per pound by the number of pounds. $5 × 0.4 = $2 He spent $2. The answer is 2"
+    },
+    {
+      "Q": "Table: [TITLE]: None\ngraduation confetti | $12 per pound\nheart confetti | $10 per pound\nanimal confetti | $10 per pound\nholiday confetti | $11 per pound\nQuestion: Lester wants to buy 2 pounds of heart confetti. How much will he spend? (Unit: $)",
+      "A": "Solution: Find the cost of the heart confetti. Multiply the price per pound by the number of pounds. $10 × 2 = $20 He will spend $20. The answer is 20"
+    },
+    {
+      "Q": "Table: [TITLE]: None\nDijon mustard | $4/pound\nmayonnaise | $3/pound\nketchup | $6/pound\nsoy sauce | $2/pound\nhot sauce | $3/pound\nQuestion: If Janelle buys 1/2 of a pound of soy sauce, how much will she spend? (Unit: $)",
+      "A": "Solution: Find the cost of the soy sauce. Multiply the price per pound by the number of pounds. $2 × \\frac{1}{2} = $2 × 0.5 = $1 She will spend $1. The answer is 1"
+    },
+    {
+      "Q": "Table: [TITLE]: None\nstrawberries | $5 per pound\nraspberries | $2 per pound\nblueberries | $4 per pound\nloganberries | $4 per pound\nQuestion: Tim buys 1 pound of strawberries. How much does he spend? (Unit: $)",
+      "A": "Solution: Find the cost of the strawberries. Multiply the price per pound by the number of pounds. $5 × 1 = $5 He spends $5. The answer is 5"
+    }
+  ],
+  "4": [
+    {
+      "Q": "Table: [TITLE]: Pairs of shoes per store\nStem | Leaf \n1 | 9\n2 | 3, 3\n3 | 0, 2\n4 | 2, 4\n5 | 5, 7\n6 | 2, 5\n7 | 7\n8 | 0, 2, 4, 4\n9 | 0, 0\nQuestion: Ivan counted the number of pairs of shoes for sale at each of the shoe stores in the mall. How many stores have exactly 23 pairs of shoes?",
+      "A": "Solution: For the number 23, the stem is 2, and the leaf is 3. Find the row where the stem is 2. In that row, count all the leaves equal to 3. You counted 2 leaves, which are blue in the stem-and-leaf plot above. 2 stores have exactly23 pairs of shoes. The answer is 2"
+    },
+    {
+      "Q": "Table: [TITLE]: Club sizes (number of members)\nStem | Leaf \n2 | 6, 7\n3 | 5, 6, 7, 9\n4 | 6, 9\n5 | 1, 2, 3, 6\n6 | 2, 5, 7\n7 | 0, 1\n8 | 4, 4, 6\n9 | 0\nQuestion: Rebecca found out the sizes of all the clubs at her school. How many clubs have exactly 84 members? (Unit: clubs)",
+      "A": "Solution: For the number 84, the stem is 8, and the leaf is 4. Find the row where the stem is 8. In that row, count all the leaves equal to 4. You counted 2 leaves, which are blue in the stem-and-leaf plot above. 2 clubs have exactly 84 members. The answer is 2"
+    },
+    {
+      "Q": "Table: [TITLE]: Committee sizes (number of members)\nStem | Leaf \n1 | 6, 9\n2 | \n3 | 1\n4 | 0\n5 | \n6 | 0, 9\n7 | \n8 | \n9 | 0, 0\nQuestion: While writing a paper on making decisions in groups, Erica researched the size of a number of committees. How many committees have exactly 90 members? (Unit: committees)",
+      "A": "Solution: For the number 90, the stem is 9, and the leaf is 0. Find the row where the stem is 9. In that row, count all the leaves equal to 0. You counted 2 leaves, which are blue in the stem-and-leaf plot above. 2 committees have exactly 90 members. The answer is 2"
+    },
+    {
+      "Q": "Table: [TITLE]: Pairs of shoes per store\nStem | Leaf \n1 | 9\n2 | \n3 | 0, 2\n4 | 7\n5 | \n6 | \n7 | \n8 | 4\n9 | 0\nQuestion: Julie counted the number of pairs of shoes for sale at each of the shoe stores in the mall. How many stores have exactly 47 pairs of shoes? (Unit: stores)",
+      "A": "Solution: For the number 47, the stem is 4, and the leaf is 7. Find the row where the stem is 4. In that row, count all the leaves equal to 7. You counted 1 leaf, which is blue in the stem-and-leaf plot above. 1 store has exactly 47 pairs of shoes. The answer is 1"
+    },
+    {
+      "Q": "Table: [TITLE]: Silver beads per bracelet\nStem | Leaf \n3 | 1, 5, 7, 8\n4 | 0, 3, 5, 5, 8\n5 | 2, 4, 5, 7, 9\n6 | 4, 5, 6\n7 | 1, 1, 7, 8\n8 | \n9 | 0\nQuestion: Daniel counted the number of silver beads on each bracelet at Lowell Jewelry, the store where he works. What is the largest number of silver beads? (Unit: silver beads)",
+      "A": "Solution: Look at the last row of the stem-and-leaf plot. The last row has the highest stem. The stem for the last row is 9. Now find the highest leaf in the last row. The highest leaf is 0. The largest number of silver beads has a stem of 9 and a leaf of 0. Write the stem first, then the leaf: 90. The largest number of silver beads is 90 silver beads. The answer is 90"
+    }
+  ],
+  "5": [
+    {
+      "Q": "Table: [TITLE]: None\nNumber of bouquets | Number of daisies\n1 | 10\n2 | 20\n3 | 30\n4 | 40\n5 | ?\nQuestion: Each bouquet has 10 daisies. How many daisies are in 5 bouquets?",
+      "A": "Solution: Count by tens. Use the chart: there are 50 daisies in 5 bouquets. The answer is 50"
+    },
+    {
+      "Q": "Table: [TITLE]: None\nNumber of offices | Number of chairs\n1 | 2\n2 | 4\n3 | 6\n4 | 8\n5 | ?\nQuestion: Each office has 2 chairs. How many chairs are in 5 offices?",
+      "A": "Solution: Count by twos. Use the chart: there are 10 chairs in 5 offices. The answer is 10"
+    },
+    {
+      "Q": "Table: [TITLE]: None\nNumber of shelves | Number of cups\n1 | 10\n2 | 20\n3 | 30\n4 | 40\n5 | 50\n6 | ?\nQuestion: Each shelf has 10 cups. How many cups are on 6 shelves?",
+      "A": "Solution: Count by tens. Use the chart: there are 60 cups on 6 shelves. The answer is 60"
+    },
+    {
+      "Q": "Table: [TITLE]: None\nNumber of pens | Number of cows\n1 | 10\n2 | 20\n3 | 30\n4 | 40\n5 | ?\nQuestion: Each pen has 10 cows. How many cows are in 5 pens?",
+      "A": "Solution: Count by tens. Use the chart: there are 50 cows in 5 pens. The answer is 50"
+    },
+    {
+      "Q": "Table: [TITLE]: None\nNumber of bags | Number of wooden beads\n1 | 5\n2 | 10\n3 | ?\nQuestion: Each bag has 5 wooden beads. How many wooden beads are in 3 bags?",
+      "A": "Solution: Count by fives. Use the chart: there are 15 wooden beads in 3 bags. The answer is 15"
+    }
+  ],
+  "6": [
+    {
+      "Q": "Table: [TITLE]: Loaves of leftover bread\nDay | Leftover loaves\nSunday | 29\nMonday | 30\nTuesday | 39\nWednesday | 31\nThursday | 32\nQuestion: A vendor who sold bread at farmers' markets counted the number of leftover loaves at the end of each day. According to the table, what was the rate of change between Wednesday and Thursday? (Unit: loaves per day)",
+      "A": "Solution: Plug the numbers into the formula for rate of change and simplify. Rate of change = \\frac{change in value}{change in time} = \\frac{32 loaves - 31 loaves}{1 day} = \\frac{1 loaf}{1 day} = 1 loaf per day The rate of change between Wednesday and Thursday was 1 loaf per day. The answer is 1"
+    },
+    {
+      "Q": "Table: [TITLE]: Loaves of leftover bread\nDay | Leftover loaves\nSunday | 37\nMonday | 4\nTuesday | 11\nWednesday | 45\nThursday | 49\nQuestion: A vendor who sold bread at farmers' markets counted the number of leftover loaves at the end of each day. According to the table, what was the rate of change between Tuesday and Wednesday? (Unit: loaves per day)",
+      "A": "Solution: Plug the numbers into the formula for rate of change and simplify. Rate of change = \\frac{change in value}{change in time} = \\frac{45 loaves - 11 loaves}{1 day} = \\frac{34 loaves}{1 day} = 34 loaves per day The rate of change between Tuesday and Wednesday was 34 loaves per day. The answer is 34"
+    },
+    {
+      "Q": "Table: [TITLE]: Loaves of leftover bread\nDay | Leftover loaves\nSunday | 41\nMonday | 34\nTuesday | 39\nWednesday | 44\nThursday | 33\nQuestion: A vendor who sold bread at farmers' markets counted the number of leftover loaves at the end of each day. According to the table, what was the rate of change between Monday and Tuesday? (Unit: loaves per day)",
+      "A": "Solution: Plug the numbers into the formula for rate of change and simplify. Rate of change = \\frac{change in value}{change in time} = \\frac{39 loaves - 34 loaves}{1 day} = \\frac{5 loaves}{1 day} = 5 loaves per day The rate of change between Monday and Tuesday was 5 loaves per day. The answer is 5"
+    },
+    {
+      "Q": "Table: [TITLE]: Ages of cousins\nName | Age (years)\nErica | 8\nMax | 9\nAkira | 4\nLauren | 8\nJulia | 4\nRick | 8\nBrad | 9\nSam | 10\nQuestion: A girl compared the ages of her cousins. What is the mode of the numbers?",
+      "A": "Solution: Read the numbers from the table. 8, 9, 4, 8, 4, 8, 9, 10 First, arrange the numbers from least to greatest: 4, 4, 8, 8, 8, 9, 9, 10 Now count how many times each number appears. 4 appears 2 times. 8 appears 3 times. 9 appears 2 times. 10 appears 1 time. The number that appears most often is 8. The mode is 8. The answer is 8"
+    },
+    {
+      "Q": "Table: [TITLE]: Loaves of leftover bread\nDay | Leftover loaves\nMonday | 16\nTuesday | 19\nWednesday | 14\nThursday | 11\nFriday | 2\nQuestion: A vendor who sold bread at farmers' markets counted the number of leftover loaves at the end of each day. According to the table, what was the rate of change between Wednesday and Thursday? (Unit: loaves per day)",
+      "A": "Solution: Plug the numbers into the formula for rate of change and simplify. Rate of change = \\frac{change in value}{change in time} = \\frac{11 loaves - 14 loaves}{1 day} = \\frac{-3 loaves}{1 day} = -3 loaves per day The rate of change between Wednesday and Thursday was - 3 loaves per day. The answer is -3"
+    }
+  ],
+  "7": [
+    {
+      "Q": "Table: [TITLE]: People interviewed\nDay | Number of people\nMonday | 46\nTuesday | 42\nWednesday | 41\nThursday | 48\nQuestion: A reporter looked through his notebook to remember how many people he had interviewed in the past 4 days. On which day did the reporter interview the most people?\nOptions: (A) Monday (B) Tuesday (C) Wednesday (D) Thursday",
+      "A": "Solution: Find the greatest number in the table. Remember to compare the numbers starting with the highest place value. The greatest number is 48. Now find the corresponding day. Thursday corresponds to 48. The answer is Thursday"
+    },
+    {
+      "Q": "Table: [TITLE]: Magazines sold\nMonth | Number of magazines\nMarch | 552\nApril | 515\nMay | 512\nJune | 522\nQuestion: A magazine editor looked at his sales figures for the past 4 months. In which month were the fewest copies sold?\nOptions: (A) March (B) April (C) May (D) June",
+      "A": "Solution: Find the least number in the table. Remember to compare the numbers starting with the highest place value. The least number is 512. Now find the corresponding month. May corresponds to 512. The answer is May"
+    },
+    {
+      "Q": "Table: [TITLE]: Stuffed animal collections\nName | Number of stuffed animals\nVicky | 82\nShannon | 83\nEllen | 80\nLiz | 89\nQuestion: Some friends compared the sizes of their stuffed animal collections. Who has the most stuffed animals?\nOptions: (A) Vicky (B) Shannon (C) Ellen (D) Liz",
+      "A": "Solution: Find the greatest number in the table. Remember to compare the numbers starting with the highest place value. The greatest number is 89. Now find the corresponding name. Liz corresponds to 89. The answer is Liz"
+    },
+    {
+      "Q": "Table: [TITLE]: Ice cream cones sold\nDay | Number of ice cream cones\nWednesday | 63\nThursday | 65\nFriday | 68\nSaturday | 61\nQuestion: An ice cream shop kept track of how many ice cream cones it sold in the past 4 days. On which day did the shop sell the fewest ice cream cones?\nOptions: (A) Wednesday (B) Thursday (C) Friday (D) Saturday",
+      "A": "Solution: Find the least number in the table. Remember to compare the numbers starting with the highest place value. The least number is 61. Now find the corresponding day. Saturday corresponds to 61. The answer is Saturday"
+    },
+    {
+      "Q": "Table: [TITLE]: Miles driven\nDay | Number of miles\nThursday | 15\nFriday | 17\nSaturday | 18\nSunday | 19\nQuestion: Emma kept a driving log to see how many miles she drove each day. On which day did Emma drive the fewest miles?\nOptions: (A) Thursday (B) Friday (C) Saturday (D) Sunday",
+      "A": "Solution: Find the least number in the table. Remember to compare the numbers starting with the highest place value. The least number is 15. Now find the corresponding day. Thursday corresponds to 15. The answer is Thursday"
+    }
+  ],
+  "8": [
+    {
+      "Q": "Table: [TITLE]: None\nPrice | Quantity demanded | Quantity supplied\n$550 | 19,900 | 2,600\n$680 | 15,300 | 6,900\n$810 | 10,700 | 11,200\n$940 | 6,100 | 15,500\n$1,070 | 1,500 | 19,800\nQuestion: Look at the table. Then answer the question. At a price of $550, is there a shortage or a surplus?\nOptions: (A) shortage (B) surplus",
+      "A": "Solution: At the price of $550, the quantity demanded is greater than the quantity supplied. There is not enough of the good or service for sale at that price. So, there is a shortage. The answer is shortage"
+    },
+    {
+      "Q": "Table: [TITLE]: None\nPrice | Quantity demanded | Quantity supplied\n$455 | 18,700 | 8,300\n$525 | 14,300 | 11,400\n$595 | 9,900 | 14,500\n$665 | 5,500 | 17,600\n$735 | 1,100 | 20,700\nQuestion: Look at the table. Then answer the question. At a price of $595, is there a shortage or a surplus?\nOptions: (A) shortage (B) surplus",
+      "A": "Solution: At the price of $595, the quantity demanded is less than the quantity supplied. There is too much of the good or service for sale at that price. So, there is a surplus. The answer is surplus"
+    },
+    {
+      "Q": "Table: [TITLE]: None\nPrice | Quantity demanded | Quantity supplied\n$635 | 13,300 | 1,500\n$745 | 10,700 | 6,000\n$855 | 8,100 | 10,500\n$965 | 5,500 | 15,000\n$1,075 | 2,900 | 19,500\nQuestion: Look at the table. Then answer the question. At a price of $1,075, is there a shortage or a surplus?\nOptions: (A) shortage (B) surplus",
+      "A": "Solution: At the price of $1,075, the quantity demanded is less than the quantity supplied. There is too much of the good or service for sale at that price. So, there is a surplus. The answer is surplus"
+    },
+    {
+      "Q": "Table: [TITLE]: None\nPrice | Quantity demanded | Quantity supplied\n$700 | 16,800 | 3,100\n$710 | 13,600 | 7,000\n$720 | 10,400 | 10,900\n$730 | 7,200 | 14,800\n$740 | 4,000 | 18,700\nQuestion: Look at the table. Then answer the question. At a price of $710, is there a shortage or a surplus?\nOptions: (A) shortage (B) surplus",
+      "A": "Solution: At the price of $710, the quantity demanded is greater than the quantity supplied. There is not enough of the good or service for sale at that price. So, there is a shortage. The answer is shortage"
+    },
+    {
+      "Q": "Table: [TITLE]: None\nPrice | Quantity demanded | Quantity supplied\n$750 | 12,400 | 12,100\n$860 | 11,800 | 13,700\n$970 | 11,200 | 15,300\n$1,080 | 10,600 | 16,900\n$1,190 | 10,000 | 18,500\nQuestion: Look at the table. Then answer the question. At a price of $970, is there a shortage or a surplus?\nOptions: (A) shortage (B) surplus",
+      "A": "Solution: At the price of $970, the quantity demanded is less than the quantity supplied. There is too much of the good or service for sale at that price. So, there is a surplus. The answer is surplus"
+    }
+  ],
+  "9": [
+    {
+      "Q": "Table: [TITLE]: None\nx | y\n9 | 15\n10 | 10\n11 | 5\nQuestion: The table shows a function. Is the function linear or nonlinear?\nOptions: (A) linear (B) nonlinear",
+      "A": "Solution: To determine whether the function is linear or nonlinear, see whether it has a constant rate of change. Pick the points in any two rows of the table and calculate the rate of change between them. The first two rows are a good place to start. Call the values in the first row x1 and y1. Call the values in the second row x2 and y2. Rate of change = \\frac{y2 - y1}{x2 - x1} = \\frac{10 - 15}{10 - 9} = \\frac{-5}{1} = -5 Now pick any other two rows and calculate the rate of change between them. Call the values in the second row x1 and y1. Call the values in the third row x2 and y2. Rate of change = \\frac{y2 - y1}{x2 - x1} = \\frac{5 - 10}{11 - 10} = \\frac{-5}{1} = -5 The two rates of change are the same. 5. This means the rate of change is the same for each pair of points. So, the function has a constant rate of change. The function is linear. The answer is linear"
+    },
+    {
+      "Q": "Table: [TITLE]: None\nx | y\n8 | 4\n9 | 14\n10 | 20\nQuestion: The table shows a function. Is the function linear or nonlinear?\nOptions: (A) linear (B) nonlinear",
+      "A": "Solution: To determine whether the function is linear or nonlinear, see whether it has a constant rate of change. Pick the points in any two rows of the table and calculate the rate of change between them. The first two rows are a good place to start. Call the values in the first row x1 and y1. Call the values in the second row x2 and y2. Rate of change = \\frac{y2 - y1}{x2 - x1} = \\frac{14 - 4}{9 - 8} = \\frac{10}{1} = 10 Now pick any other two rows and calculate the rate of change between them. Call the values in the second row x1 and y1. Call the values in the third row x2 and y2. Rate of change = \\frac{y2 - y1}{x2 - x1} = \\frac{20 - 14}{10 - 9} = \\frac{6}{1} = 6 The rate of change is not the same for each pair of points. So, the function does not have a constant rate of change. The function is nonlinear. The answer is nonlinear"
+    },
+    {
+      "Q": "Table: [TITLE]: None\nx | y\n8 | 4\n9 | 3\n10 | 2\nQuestion: The table shows a function. Is the function linear or nonlinear?\nOptions: (A) linear (B) nonlinear",
+      "A": "Solution: To determine whether the function is linear or nonlinear, see whether it has a constant rate of change. Pick the points in any two rows of the table and calculate the rate of change between them. The first two rows are a good place to start. Call the values in the first row x1 and y1. Call the values in the second row x2 and y2. Rate of change = \\frac{y2 - y1}{x2 - x1} = \\frac{3 - 4}{9 - 8} = \\frac{-1}{1} = -1 Now pick any other two rows and calculate the rate of change between them. Call the values in the second row x1 and y1. Call the values in the third row x2 and y2. Rate of change = \\frac{y2 - y1}{x2 - x1} = \\frac{2 - 3}{10 - 9} = \\frac{-1}{1} = -1 The two rates of change are the same. 1. This means the rate of change is the same for each pair of points. So, the function has a constant rate of change. The function is linear. The answer is linear"
+    },
+    {
+      "Q": "Table: [TITLE]: None\n | 1-3 cards | 4-6 cards\n0 times a week | 2 | 3\n1-2 times a week | 3 | 2\nQuestion: The research department of a board game company surveyed some shoppers at a local mall. The team asked shoppers how often they read the newspaper, among other questions. Then the team played a memory card game with the shoppers. They recorded how many cards each shopper remembered. What is the probability that a randomly selected shopper reads the newspaper 0 times a week and remembered 4-6 cards? Simplify any fractions.",
+      "A": "Solution: Let A be the event \"the shopper reads the newspaper 0 times a week\" and B be the event \"the shopper remembered 4-6 cards\". To find the probability that a shopper reads the newspaper 0 times a week and remembered 4-6 cards, first identify the sample space and the event. The outcomes in the sample space are the different shoppers. Each shopper is equally likely to be selected, so this is a uniform probability model. The event is A and B, \"the shopper reads the newspaper 0 times a week and remembered 4-6 cards\". Since this is a uniform probability model, count the number of outcomes in the event A and B and count the total number of outcomes. Then, divide them to compute the probability. Find the number of outcomes in the event A and B. A and B is the event \"the shopper reads the newspaper 0 times a week and remembered 4-6 cards\", so look at the table to see how many shoppers read the newspaper 0 times a week and remembered 4-6 cards. The number of shoppers who read the newspaper 0 times a week and remembered 4-6 cards is 3. Find the total number of outcomes. Add all the numbers in the table to find the total number of shoppers. 2 + 3 + 3 + 2 = 10 Find P(A and B). Since all outcomes are equally likely, the probability of event A and B is the number of outcomes in event A and B divided by the total number of outcomes. P(A and B) = \\frac{# of outcomes in A and B}{total # of outcomes} = \\frac{3}{10} The probability that a shopper reads the newspaper 0 times a week and remembered 4-6 cards is \\frac{3}{10}. The answer is 3/10"
+    },
+    {
+      "Q": "Table: [TITLE]: None\nx | y\n12 | 17\n13 | 13\n14 | 9\nQuestion: The table shows a function. Is the function linear or nonlinear?\nOptions: (A) linear (B) nonlinear",
+      "A": "Solution: To determine whether the function is linear or nonlinear, see whether it has a constant rate of change. Pick the points in any two rows of the table and calculate the rate of change between them. The first two rows are a good place to start. Call the values in the first row x1 and y1. Call the values in the second row x2 and y2. Rate of change = \\frac{y2 - y1}{x2 - x1} = \\frac{13 - 17}{13 - 12} = \\frac{-4}{1} = -4 Now pick any other two rows and calculate the rate of change between them. Call the values in the second row x1 and y1. Call the values in the third row x2 and y2. Rate of change = \\frac{y2 - y1}{x2 - x1} = \\frac{9 - 13}{14 - 13} = \\frac{-4}{1} = -4 The two rates of change are the same. 4. This means the rate of change is the same for each pair of points. So, the function has a constant rate of change. The function is linear. The answer is linear"
+    }
+  ]
+}
