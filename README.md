@@ -40,17 +40,13 @@ To integrate your own LLM endpoint:
 2. **Implement required methods**:
    - `__init__`: Initialize your endpoint connection
    - `predict`: Handle the actual LLM inference
-3. **Register your endpoint** by adding it to `src/llm/__init__.py` with your chosen endpoint name
+3. **Register your endpoint** by adding it to `src/llm/__init__.py` with your chosen endpoint name <YOUR_ENDPOINT_NAME>
 
 Example usage with a custom endpoint on TableMWP:
 ```bash
 python scripts/eval.py --task tabmwp --split test1k --endpoint <YOUR_ENDPOINT_NAME> --selection random --seed 11 --verbose
 ```
 
-## Add your own endpoint
-1. Create an endpoint class similarly to `src.llm.openai.py` that inherits the base class `BaseLLM`.
-2. Implement `__init__` and `predict` methods accordingly.
-3. Register the endpoint class with <YOUR_ENDPOINT_NAME> in `src/llm/__init__.py`.
 
 ## Experiments
 
